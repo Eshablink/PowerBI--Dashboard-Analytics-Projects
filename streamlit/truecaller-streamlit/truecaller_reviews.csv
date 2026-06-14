@@ -1,0 +1,1001 @@
+review_id,date,year,month,review_text,rating,sentiment,spam_mentioned,country,app_version,helpful_count,review_length
+REV0938,2019-01-06,2019,1,"Keeps showing wrong names for contacts, very frustrating Not worth the download.",2,Negative,No,Brazil,14.5,1,80
+REV0324,2019-01-09,2019,1,Perfect solution for spam calls and unknown numbers Great job developers.,4,Positive,Yes,India,15.5,3,73
+REV0254,2019-01-10,2019,1,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,Indonesia,14.5,0,80
+REV0394,2019-01-12,2019,1,"Excellent spam detection feature, highly recommended Great job developers.",4,Positive,Yes,India,14.0,1,74
+REV0999,2019-01-17,2019,1,"Worst update ever, completely ruined the user experience Dev team should address this.",2,Negative,No,India,14.5,2,86
+REV0420,2019-01-22,2019,1,Too much data collection and privacy invasion issues Not worth the download.,2,Negative,Yes,India,15.0,3,76
+REV0080,2019-02-01,2019,2,This app has made my phone experience so much better Keep up the good work.,5,Positive,No,USA,15.5,2,75
+REV0147,2019-02-05,2019,2,"Worst update ever, completely ruined the user experience Not worth the download.",2,Negative,Yes,India,14.0,3,80
+REV0060,2019-02-08,2019,2,Perfect solution for spam calls and unknown numbers Best decision to download this.,5,Positive,Yes,USA,15.5,2,83
+REV0700,2019-02-09,2019,2,Too much data collection and privacy invasion issues Please fix this immediately.,1,Negative,Yes,India,14.5,2,81
+REV0507,2019-02-09,2019,2,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,India,14.0,10,80
+REV0528,2019-02-13,2019,2,This app has made my phone experience so much better Highly recommended!,5,Positive,No,India,15.5,0,72
+REV0133,2019-02-15,2019,2,Outstanding performance and very accurate caller ID Best decision to download this.,5,Positive,No,Nigeria,15.5,2,83
+REV0605,2019-02-19,2019,2,Brilliant app for managing calls and blocking telemarketers Keep up the good work.,4,Positive,Yes,Nigeria,15.5,2,82
+REV0807,2019-03-15,2019,3,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,5,Positive,Yes,India,15.5,9,86
+REV0631,2019-03-17,2019,3,Perfect solution for spam calls and unknown numbers Highly recommended!,5,Positive,Yes,Brazil,15.5,0,71
+REV0056,2019-04-04,2019,4,Perfect solution for spam calls and unknown numbers Will definitely recommend to friends.,5,Positive,Yes,India,13.0,0,89
+REV0977,2019-04-05,2019,4,Truecaller is a must-have app for every smartphone user Best decision to download this.,4,Positive,Yes,USA,14.5,2,87
+REV0049,2019-04-08,2019,4,This app has made my phone experience so much better Highly recommended!,5,Positive,Yes,India,15.5,1,72
+REV0661,2019-04-16,2019,4,Very buggy app with constant notifications that annoy me Not worth the download.,1,Negative,No,USA,13.0,4,80
+REV0251,2019-04-20,2019,4,Amazing app that saves time by filtering spam calls Will definitely recommend to friends.,5,Positive,Yes,India,14.5,1,89
+REV0908,2019-04-21,2019,4,Perfect solution for spam calls and unknown numbers Great job developers.,5,Positive,Yes,India,14.5,2,73
+REV0456,2019-04-24,2019,4,Too many ads and the premium version is very expensive Uninstalling this app now.,1,Negative,No,Indonesia,15.5,4,81
+REV0913,2019-05-02,2019,5,Very helpful app for identifying unknown callers and blocking spam Best decision to download this.,5,Positive,Yes,India,14.5,3,98
+REV0849,2019-05-06,2019,5,Battery draining app that makes phone run hot all the time Needs major improvements.,1,Negative,No,India,15.5,0,84
+REV0077,2019-05-07,2019,5,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,India,13.5,3,80
+REV0201,2019-05-08,2019,5,Battery draining app that makes phone run hot all the time Very disappointed.,1,Negative,No,India,14.5,4,77
+REV0903,2019-05-09,2019,5,"Disappointed with quality, expected much better performance Very disappointed.",1,Negative,No,India,14.5,1,78
+REV0184,2019-05-15,2019,5,Battery draining app that makes phone run hot all the time Please fix this immediately.,1,Negative,Yes,Indonesia,15.5,7,87
+REV0517,2019-05-16,2019,5,App is fine but could use more features and better UI Not fully satisfied.,3,Neutral,Yes,India,13.5,4,74
+REV0337,2019-05-20,2019,5,"Best caller ID app I have ever used, works perfectly Five stars from me.",5,Positive,No,USA,15.5,2,72
+REV0957,2019-05-22,2019,5,Too much data collection and privacy invasion issues Not worth the download.,1,Negative,Yes,India,15.5,2,76
+REV0425,2019-05-25,2019,5,This app has made my phone experience so much better Great job developers.,5,Positive,No,India,14.5,0,74
+REV0993,2019-05-27,2019,5,App is very slow and takes too long to load caller info Uninstalling this app now.,2,Negative,No,USA,14.5,1,82
+REV0452,2019-06-03,2019,6,"Best caller ID app I have ever used, works perfectly Great job developers.",4,Positive,No,India,15.5,2,74
+REV0344,2019-06-05,2019,6,The app has become useless after the latest update Uninstalling this app now.,1,Negative,No,India,15.5,1,77
+REV0833,2019-06-05,2019,6,Very helpful app for identifying unknown callers and blocking spam Keep up the good work.,5,Positive,Yes,Nigeria,13.5,1,89
+REV0521,2019-06-13,2019,6,Great app for blocking unwanted calls and identifying callers Very satisfied with this app.,4,Positive,Yes,India,15.0,2,91
+REV0268,2019-06-21,2019,6,Superb caller identification and spam protection features Will definitely recommend to friends.,5,Positive,Yes,India,13.5,4,95
+REV0118,2019-07-03,2019,7,Truecaller is a must-have app for every smartphone user Keep up the good work.,4,Positive,No,Indonesia,14.5,4,78
+REV0907,2019-07-07,2019,7,Love how it instantly identifies unknown numbers Five stars from me.,5,Positive,No,Brazil,14.5,0,68
+REV0163,2019-07-09,2019,7,"Worst update ever, completely ruined the user experience Uninstalling this app now.",1,Negative,No,India,15.0,0,83
+REV0173,2019-07-13,2019,7,Outstanding performance and very accurate caller ID Very satisfied with this app.,4,Positive,No,UK,14.5,3,81
+REV0963,2019-07-16,2019,7,"Best caller ID app I have ever used, works perfectly Keep up the good work.",5,Positive,No,India,15.0,0,75
+REV0121,2019-07-23,2019,7,"Mixed experience with this app, some features work well Just okay for now.",3,Neutral,Yes,UK,15.0,5,74
+REV0375,2019-07-28,2019,7,Not bad but definitely not the best caller ID app out there Could be better.,3,Neutral,No,Brazil,15.0,0,76
+REV0137,2019-08-02,2019,8,Too much data collection and privacy invasion issues Not worth the download.,1,Negative,No,India,15.5,0,76
+REV0464,2019-08-09,2019,8,"Really useful app, cannot imagine using phone without it Great job developers.",4,Positive,Yes,Brazil,15.5,4,78
+REV0991,2019-08-09,2019,8,Very helpful app for identifying unknown callers and blocking spam Very satisfied with this app.,4,Positive,Yes,Nigeria,15.5,1,96
+REV0780,2019-08-09,2019,8,"Really useful app, cannot imagine using phone without it Highly recommended!",5,Positive,Yes,Indonesia,15.0,2,76
+REV0549,2019-08-09,2019,8,Average app with some good features and some bad ones Might switch to another app.,3,Neutral,No,Nigeria,14.5,2,82
+REV0012,2019-08-18,2019,8,Very helpful app for identifying unknown callers and blocking spam Very satisfied with this app.,5,Positive,Yes,Indonesia,15.5,0,96
+REV0587,2019-08-21,2019,8,Amazing app that saves time by filtering spam calls Very satisfied with this app.,5,Positive,Yes,India,14.0,1,81
+REV0611,2019-08-22,2019,8,Very helpful app for identifying unknown callers and blocking spam Great job developers.,5,Positive,Yes,India,15.0,1,88
+REV0243,2019-08-23,2019,8,Works sometimes but not consistent enough for daily use Just okay for now.,3,Neutral,No,Indonesia,15.0,3,74
+REV0427,2019-08-27,2019,8,Perfect solution for spam calls and unknown numbers Best decision to download this.,4,Positive,Yes,India,15.5,3,83
+REV0063,2019-09-04,2019,9,"Best caller ID app I have ever used, works perfectly Will definitely recommend to friends.",5,Positive,Yes,India,15.5,0,90
+REV0619,2019-09-05,2019,9,Fantastic app that works flawlessly without any issues Best decision to download this.,5,Positive,No,UK,15.0,2,86
+REV0435,2019-09-05,2019,9,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",5,Positive,Yes,India,15.0,0,90
+REV0453,2019-09-18,2019,9,Superb caller identification and spam protection features Great job developers.,5,Positive,Yes,India,15.0,10,79
+REV0383,2019-09-21,2019,9,Amazing app that saves time by filtering spam calls Highly recommended!,5,Positive,Yes,India,14.0,0,71
+REV0419,2019-09-27,2019,9,Spam calls still getting through despite having this app Dev team should address this.,2,Negative,Yes,Nigeria,14.5,2,86
+REV0911,2019-10-17,2019,10,"Does not work properly on my device, keeps showing errors Uninstalling this app now.",1,Negative,Yes,India,14.0,2,84
+REV0989,2019-10-20,2019,10,Very buggy app with constant notifications that annoy me Very disappointed.,2,Negative,No,India,14.0,13,75
+REV0659,2019-10-24,2019,10,Wonderful app with great user interface and smooth performance Great job developers.,4,Positive,No,Brazil,15.5,0,84
+REV0791,2019-11-05,2019,11,App is very slow and takes too long to load caller info Dev team should address this.,1,Negative,No,Indonesia,14.0,0,85
+REV0079,2019-11-10,2019,11,Amazing app that saves time by filtering spam calls Very satisfied with this app.,5,Positive,Yes,Indonesia,13.0,6,81
+REV0305,2019-11-12,2019,11,Very buggy app with constant notifications that annoy me Dev team should address this.,1,Negative,Yes,Indonesia,15.5,1,86
+REV0579,2019-11-19,2019,11,"Keeps showing wrong names for contacts, very frustrating Please fix this immediately.",1,Negative,Yes,Brazil,15.0,3,85
+REV0811,2019-11-21,2019,11,Too many ads and the premium version is very expensive Uninstalling this app now.,2,Negative,Yes,India,14.5,3,81
+REV0006,2019-11-23,2019,11,Number lookup is wrong most of the time very inaccurate Needs major improvements.,1,Negative,No,Indonesia,15.5,4,81
+REV0633,2019-11-27,2019,11,Terrible customer support and no response to complaints Dev team should address this.,2,Negative,Yes,USA,15.0,0,85
+REV0017,2019-11-27,2019,11,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",5,Positive,Yes,India,13.0,3,90
+REV0612,2019-12-01,2019,12,"Keeps showing wrong names for contacts, very frustrating Uninstalling this app now.",1,Negative,No,India,14.0,0,83
+REV0455,2019-12-01,2019,12,Great app for blocking unwanted calls and identifying callers Keep up the good work.,5,Positive,No,India,14.0,1,84
+REV0669,2019-12-05,2019,12,Number lookup is wrong most of the time very inaccurate Please fix this immediately.,1,Negative,Yes,India,15.0,0,84
+REV0128,2019-12-06,2019,12,This app has made my phone experience so much better Best decision to download this.,5,Positive,No,USA,15.5,6,84
+REV0315,2019-12-12,2019,12,"Excellent spam detection feature, highly recommended Highly recommended!",5,Positive,Yes,India,15.0,14,72
+REV0329,2019-12-14,2019,12,Very helpful app for identifying unknown callers and blocking spam Five stars from me.,4,Positive,Yes,Brazil,14.0,2,86
+REV0022,2019-12-18,2019,12,"Disappointed with quality, expected much better performance Needs major improvements.",2,Negative,Yes,India,14.5,0,85
+REV0686,2019-12-19,2019,12,"Disappointed with quality, expected much better performance Dev team should address this.",1,Negative,No,India,15.0,1,89
+REV0199,2019-12-19,2019,12,This app has made my phone experience so much better Keep up the good work.,5,Positive,No,USA,14.5,2,75
+REV0888,2019-12-20,2019,12,"Really useful app, cannot imagine using phone without it Very satisfied with this app.",5,Positive,Yes,USA,13.5,0,86
+REV0477,2019-12-22,2019,12,Great app for blocking unwanted calls and identifying callers Great job developers.,4,Positive,Yes,India,15.5,0,83
+REV0422,2019-12-25,2019,12,Amazing app that saves time by filtering spam calls Five stars from me.,5,Positive,Yes,Indonesia,15.0,5,71
+REV0582,2019-12-28,2019,12,This app has made my phone experience so much better Five stars from me.,4,Positive,No,India,13.5,2,72
+REV0064,2020-01-03,2020,1,Spam calls still getting through despite having this app Dev team should address this.,1,Negative,Yes,UK,15.0,6,86
+REV0646,2020-01-09,2020,1,"Really useful app, cannot imagine using phone without it Five stars from me.",4,Positive,No,Brazil,13.0,1,76
+REV0593,2020-01-09,2020,1,"Disappointed with quality, expected much better performance Very disappointed.",1,Negative,No,USA,14.0,2,78
+REV0622,2020-01-10,2020,1,Very helpful app for identifying unknown callers and blocking spam Best decision to download this.,4,Positive,Yes,USA,14.0,10,98
+REV0958,2020-01-13,2020,1,Number lookup is wrong most of the time very inaccurate Please fix this immediately.,2,Negative,No,UK,15.0,11,84
+REV0673,2020-01-17,2020,1,Love how it instantly identifies unknown numbers Highly recommended!,5,Positive,No,Indonesia,15.5,4,68
+REV0005,2020-01-18,2020,1,Superb caller identification and spam protection features Great job developers.,5,Positive,Yes,India,15.0,0,79
+REV0777,2020-01-25,2020,1,"Worst update ever, completely ruined the user experience Not worth the download.",1,Negative,No,UK,15.0,2,80
+REV0151,2020-01-28,2020,1,Outstanding performance and very accurate caller ID Very satisfied with this app.,4,Positive,No,USA,14.5,6,81
+REV0484,2020-02-01,2020,2,"Excellent spam detection feature, highly recommended Five stars from me.",4,Positive,Yes,Brazil,13.0,1,72
+REV0923,2020-02-02,2020,2,"Does not work properly on my device, keeps showing errors Please fix this immediately.",2,Negative,Yes,India,13.5,6,86
+REV0010,2020-02-03,2020,2,"Keeps showing wrong names for contacts, very frustrating Uninstalling this app now.",2,Negative,No,India,13.0,1,83
+REV0702,2020-02-03,2020,2,"Worst update ever, completely ruined the user experience Uninstalling this app now.",1,Negative,Yes,India,13.5,2,83
+REV0360,2020-02-05,2020,2,Fantastic app that works flawlessly without any issues Will definitely recommend to friends.,4,Positive,No,India,14.5,4,92
+REV0494,2020-02-07,2020,2,Superb caller identification and spam protection features Five stars from me.,5,Positive,Yes,India,14.5,11,77
+REV0757,2020-02-09,2020,2,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,5,Positive,No,India,14.0,2,93
+REV0035,2020-02-10,2020,2,The app has become useless after the latest update Uninstalling this app now.,1,Negative,No,USA,13.0,0,77
+REV0944,2020-02-12,2020,2,Decent app but there are better alternatives available Not fully satisfied.,3,Neutral,Yes,India,15.5,2,75
+REV0500,2020-02-15,2020,2,Great app for blocking unwanted calls and identifying callers Very satisfied with this app.,5,Positive,No,India,14.0,6,91
+REV0234,2020-02-16,2020,2,Battery draining app that makes phone run hot all the time Zero stars if possible.,2,Negative,Yes,India,13.0,3,82
+REV0003,2020-02-19,2020,2,"Disappointed with quality, expected much better performance Not worth the download.",1,Negative,No,India,14.5,2,83
+REV0112,2020-02-20,2020,2,"Excellent spam detection feature, highly recommended Highly recommended!",4,Positive,Yes,India,14.0,6,72
+REV0810,2020-02-21,2020,2,"Disappointed with quality, expected much better performance Uninstalling this app now.",1,Negative,No,Indonesia,15.5,6,86
+REV0476,2020-02-22,2020,2,"Keeps showing wrong names for contacts, very frustrating Please fix this immediately.",1,Negative,No,Nigeria,13.5,2,85
+REV0433,2020-02-23,2020,2,"Worst update ever, completely ruined the user experience Not worth the download.",1,Negative,No,Brazil,14.0,2,80
+REV0145,2020-02-23,2020,2,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",5,Positive,Yes,India,15.5,8,90
+REV0043,2020-02-24,2020,2,Regular updates but the core functionality stays the same Could be better.,3,Neutral,No,USA,15.5,3,74
+REV0340,2020-02-26,2020,2,Terrible customer support and no response to complaints Zero stars if possible.,1,Negative,No,India,14.0,0,79
+REV0891,2020-03-01,2020,3,App is very slow and takes too long to load caller info Uninstalling this app now.,2,Negative,No,India,15.5,2,82
+REV0588,2020-03-01,2020,3,"Excellent spam detection feature, highly recommended Very satisfied with this app.",4,Positive,Yes,India,15.5,4,82
+REV0073,2020-03-03,2020,3,Spam calls still getting through despite having this app Please fix this immediately.,1,Negative,Yes,UK,13.5,5,85
+REV0771,2020-03-03,2020,3,Acceptable performance but premium features are overpriced Hope to see updates soon.,4,Neutral,No,UK,15.5,3,84
+REV0198,2020-03-07,2020,3,"Keeps showing wrong names for contacts, very frustrating Needs major improvements.",2,Negative,Yes,Indonesia,15.0,0,82
+REV0311,2020-03-13,2020,3,"Disappointed with quality, expected much better performance Not worth the download.",2,Negative,No,India,15.5,8,83
+REV0900,2020-03-19,2020,3,"Does not work properly on my device, keeps showing errors Please fix this immediately.",1,Negative,No,India,14.5,6,86
+REV0170,2020-03-20,2020,3,"Keeps showing wrong names for contacts, very frustrating Uninstalling this app now.",2,Negative,No,USA,15.5,0,83
+REV0698,2020-03-22,2020,3,Very buggy app with constant notifications that annoy me Zero stars if possible.,1,Negative,No,USA,13.5,2,80
+REV0371,2020-03-25,2020,3,App is very slow and takes too long to load caller info Very disappointed.,1,Negative,Yes,India,13.0,1,74
+REV0887,2020-03-26,2020,3,"Best caller ID app I have ever used, works perfectly Highly recommended!",5,Positive,No,USA,14.0,0,72
+REV0101,2020-03-26,2020,3,Wonderful app with great user interface and smooth performance Five stars from me.,4,Positive,No,India,13.5,1,82
+REV0104,2020-04-09,2020,4,Too much data collection and privacy invasion issues Dev team should address this.,2,Negative,Yes,India,14.5,1,82
+REV0880,2020-04-10,2020,4,Fantastic app that works flawlessly without any issues Five stars from me.,4,Positive,Yes,India,15.5,1,74
+REV0773,2020-04-18,2020,4,App keeps crashing frequently and drains battery fast Uninstalling this app now.,2,Negative,Yes,Indonesia,14.5,3,80
+REV0734,2020-04-22,2020,4,"Best caller ID app I have ever used, works perfectly Best decision to download this.",4,Positive,No,India,14.0,1,84
+REV0099,2020-04-22,2020,4,Truecaller is a must-have app for every smartphone user Very satisfied with this app.,4,Positive,Yes,USA,14.0,1,85
+REV0650,2020-04-24,2020,4,App keeps crashing frequently and drains battery fast Very disappointed.,2,Negative,Yes,Brazil,15.0,5,72
+REV0657,2020-04-24,2020,4,Very helpful app for identifying unknown callers and blocking spam Great job developers.,4,Positive,Yes,India,15.5,6,88
+REV0925,2020-04-26,2020,4,"Disappointed with quality, expected much better performance Not worth the download.",1,Negative,Yes,India,14.0,0,83
+REV0357,2020-05-01,2020,5,"Really useful app, cannot imagine using phone without it Very satisfied with this app.",5,Positive,Yes,Nigeria,15.5,2,86
+REV0882,2020-05-08,2020,5,Not bad but definitely not the best caller ID app out there Hope to see updates soon.,3,Neutral,Yes,UK,14.0,0,85
+REV0351,2020-05-12,2020,5,App is fine but could use more features and better UI Might switch to another app.,3,Neutral,Yes,UK,15.5,1,82
+REV0275,2020-05-12,2020,5,Perfect solution for spam calls and unknown numbers Highly recommended!,5,Positive,Yes,Brazil,15.5,3,71
+REV0395,2020-05-15,2020,5,Spam calls still getting through despite having this app Please fix this immediately.,1,Negative,Yes,USA,14.5,3,85
+REV0303,2020-05-18,2020,5,Love how it instantly identifies unknown numbers Highly recommended!,4,Positive,Yes,Indonesia,14.0,4,68
+REV0658,2020-05-18,2020,5,Amazing app that saves time by filtering spam calls Highly recommended!,5,Positive,Yes,India,15.0,2,71
+REV0578,2020-05-21,2020,5,App is very slow and takes too long to load caller info Uninstalling this app now.,1,Negative,Yes,UK,14.5,3,82
+REV0830,2020-05-21,2020,5,Brilliant app for managing calls and blocking telemarketers Will definitely recommend to friends.,5,Positive,Yes,India,13.0,0,97
+REV0280,2020-05-22,2020,5,App is very slow and takes too long to load caller info Zero stars if possible.,1,Negative,Yes,India,14.0,3,79
+REV0299,2020-05-24,2020,5,This app has made my phone experience so much better Best decision to download this.,5,Positive,No,UK,15.0,3,84
+REV0071,2020-06-02,2020,6,App keeps crashing frequently and drains battery fast Needs major improvements.,2,Negative,Yes,India,13.5,2,79
+REV0762,2020-06-04,2020,6,Fantastic app that works flawlessly without any issues Five stars from me.,4,Positive,Yes,Nigeria,15.0,3,74
+REV0899,2020-06-04,2020,6,"Disappointed with quality, expected much better performance Dev team should address this.",2,Negative,Yes,USA,15.5,2,89
+REV0955,2020-06-07,2020,6,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,5,Positive,Yes,India,14.0,7,86
+REV0108,2020-06-09,2020,6,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,5,Positive,No,Nigeria,15.0,3,93
+REV0483,2020-06-13,2020,6,Privacy concerns as it uploads contacts without permission Not worth the download.,2,Negative,Yes,Nigeria,15.0,0,82
+REV0848,2020-06-17,2020,6,Privacy concerns as it uploads contacts without permission Zero stars if possible.,1,Negative,No,India,15.5,0,82
+REV0109,2020-06-21,2020,6,"Keeps showing wrong names for contacts, very frustrating Uninstalling this app now.",1,Negative,No,India,15.0,4,83
+REV0732,2020-06-23,2020,6,"Neutral opinion, app does what it promises nothing more Could be better.",3,Neutral,No,India,14.0,2,72
+REV0267,2020-06-28,2020,6,"Best caller ID app I have ever used, works perfectly Best decision to download this.",4,Positive,No,Nigeria,14.0,1,84
+REV0272,2020-07-04,2020,7,Brilliant app for managing calls and blocking telemarketers Highly recommended!,5,Positive,Yes,India,15.5,1,79
+REV0445,2020-07-04,2020,7,Terrible customer support and no response to complaints Not worth the download.,1,Negative,No,USA,15.0,1,79
+REV0668,2020-07-05,2020,7,"Keeps showing wrong names for contacts, very frustrating Please fix this immediately.",1,Negative,No,India,14.5,1,85
+REV0451,2020-07-06,2020,7,Truecaller is a must-have app for every smartphone user Great job developers.,5,Positive,No,India,15.5,4,77
+REV0954,2020-07-06,2020,7,Amazing app that saves time by filtering spam calls Great job developers.,4,Positive,Yes,India,15.5,0,73
+REV0808,2020-07-07,2020,7,This app has made my phone experience so much better Highly recommended!,4,Positive,No,India,15.5,0,72
+REV0136,2020-07-08,2020,7,Average app with some good features and some bad ones Could be better.,4,Neutral,Yes,Nigeria,15.5,2,70
+REV0253,2020-07-11,2020,7,Okay for basic call identification but needs improvement Just okay for now.,3,Neutral,No,India,15.0,6,75
+REV0722,2020-07-12,2020,7,"Really useful app, cannot imagine using phone without it Best decision to download this.",5,Positive,Yes,Brazil,14.0,0,88
+REV0405,2020-07-14,2020,7,Great app for blocking unwanted calls and identifying callers Keep up the good work.,5,Positive,No,Indonesia,14.5,6,84
+REV0028,2020-07-19,2020,7,Too much data collection and privacy invasion issues Not worth the download.,1,Negative,No,Brazil,14.5,0,76
+REV0817,2020-07-23,2020,7,"Really useful app, cannot imagine using phone without it Highly recommended!",4,Positive,Yes,Nigeria,13.0,1,76
+REV0601,2020-07-23,2020,7,Outstanding performance and very accurate caller ID Keep up the good work.,5,Positive,No,India,14.0,0,74
+REV0141,2020-07-27,2020,7,Brilliant app for managing calls and blocking telemarketers Great job developers.,5,Positive,Yes,Indonesia,13.5,1,81
+REV0943,2020-08-01,2020,8,Wonderful app with great user interface and smooth performance Keep up the good work.,5,Positive,Yes,India,15.0,5,85
+REV0562,2020-08-07,2020,8,"Excellent spam detection feature, highly recommended Great job developers.",4,Positive,Yes,UK,14.0,2,74
+REV0062,2020-08-08,2020,8,Works sometimes but not consistent enough for daily use Just okay for now.,4,Neutral,No,India,13.5,0,74
+REV0339,2020-08-17,2020,8,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,USA,14.5,10,80
+REV0998,2020-08-25,2020,8,"Mixed experience with this app, some features work well Not fully satisfied.",3,Neutral,No,India,15.0,8,76
+REV0841,2020-09-11,2020,9,"Keeps showing wrong names for contacts, very frustrating Very disappointed.",1,Negative,No,USA,15.0,2,75
+REV0591,2020-09-11,2020,9,"Really useful app, cannot imagine using phone without it Will definitely recommend to friends.",5,Positive,Yes,India,15.5,0,94
+REV0302,2020-09-12,2020,9,Very buggy app with constant notifications that annoy me Dev team should address this.,1,Negative,Yes,India,15.0,4,86
+REV0538,2020-09-12,2020,9,Perfect solution for spam calls and unknown numbers Keep up the good work.,4,Positive,Yes,Nigeria,14.0,1,74
+REV0924,2020-09-16,2020,9,Truecaller is a must-have app for every smartphone user Highly recommended!,5,Positive,Yes,USA,15.5,5,75
+REV0665,2020-09-16,2020,9,Privacy concerns as it uploads contacts without permission Needs major improvements.,2,Negative,Yes,India,14.5,6,84
+REV0827,2020-09-20,2020,9,"Best caller ID app I have ever used, works perfectly Five stars from me.",5,Positive,No,UK,15.0,0,72
+REV0404,2020-09-20,2020,9,This app has made my phone experience so much better Great job developers.,5,Positive,Yes,India,15.5,1,74
+REV0257,2020-09-25,2020,9,Great app for blocking unwanted calls and identifying callers Keep up the good work.,5,Positive,No,India,15.0,0,84
+REV0499,2020-10-03,2020,10,Very buggy app with constant notifications that annoy me Dev team should address this.,2,Negative,Yes,Brazil,15.0,1,86
+REV0970,2020-10-08,2020,10,Love how it instantly identifies unknown numbers Best decision to download this.,4,Positive,No,USA,15.5,2,80
+REV0379,2020-10-15,2020,10,Great app for blocking unwanted calls and identifying callers Five stars from me.,5,Positive,No,India,14.5,3,81
+REV0447,2020-10-15,2020,10,Fantastic app that works flawlessly without any issues Best decision to download this.,4,Positive,Yes,India,14.0,5,86
+REV0556,2020-10-16,2020,10,Spam calls still getting through despite having this app Dev team should address this.,2,Negative,Yes,India,15.5,4,86
+REV0400,2020-10-16,2020,10,Decent app but there are better alternatives available Just okay for now.,3,Neutral,No,India,15.0,3,73
+REV0879,2020-10-19,2020,10,"Mixed experience with this app, some features work well Could be better.",3,Neutral,Yes,India,14.0,4,72
+REV0904,2020-10-20,2020,10,Amazing app that saves time by filtering spam calls Highly recommended!,5,Positive,Yes,India,15.5,1,71
+REV0536,2020-10-22,2020,10,"Excellent spam detection feature, highly recommended Best decision to download this.",5,Positive,Yes,UK,14.0,0,84
+REV0266,2020-10-23,2020,10,App is very slow and takes too long to load caller info Uninstalling this app now.,2,Negative,No,India,15.0,2,82
+REV0691,2020-10-27,2020,10,Outstanding performance and very accurate caller ID Five stars from me.,4,Positive,No,Brazil,15.5,3,71
+REV0215,2020-11-03,2020,11,Truecaller is a must-have app for every smartphone user Keep up the good work.,5,Positive,Yes,India,13.0,0,78
+REV0701,2020-11-05,2020,11,Too much data collection and privacy invasion issues Dev team should address this.,1,Negative,No,Indonesia,13.5,1,82
+REV0948,2020-11-08,2020,11,Regular updates but the core functionality stays the same Not fully satisfied.,3,Neutral,Yes,Brazil,15.0,7,78
+REV0687,2020-11-09,2020,11,Average app with some good features and some bad ones Could be better.,3,Neutral,No,UK,14.0,2,70
+REV0969,2020-11-12,2020,11,Too many ads and the premium version is very expensive Please fix this immediately.,1,Negative,No,Indonesia,15.5,0,83
+REV0872,2020-11-13,2020,11,App keeps crashing frequently and drains battery fast Dev team should address this.,2,Negative,No,USA,15.0,1,83
+REV0026,2020-11-15,2020,11,Acceptable performance but premium features are overpriced Hope to see updates soon.,3,Neutral,Yes,India,15.5,0,84
+REV0714,2020-11-16,2020,11,Truecaller is a must-have app for every smartphone user Very satisfied with this app.,5,Positive,No,UK,14.0,0,85
+REV0129,2020-11-21,2020,11,"Excellent spam detection feature, highly recommended Great job developers.",5,Positive,Yes,Brazil,13.5,1,74
+REV0391,2020-11-21,2020,11,"Disappointed with quality, expected much better performance Not worth the download.",1,Negative,No,India,15.5,3,83
+REV0800,2020-11-22,2020,11,Brilliant app for managing calls and blocking telemarketers Will definitely recommend to friends.,5,Positive,Yes,Brazil,13.5,3,97
+REV0856,2020-11-24,2020,11,Too many ads and the premium version is very expensive Not worth the download.,1,Negative,Yes,India,15.5,1,78
+REV0157,2020-11-26,2020,11,Great app for blocking unwanted calls and identifying callers Very satisfied with this app.,5,Positive,No,USA,14.0,2,91
+REV0789,2020-11-27,2020,11,Battery draining app that makes phone run hot all the time Not worth the download.,1,Negative,Yes,India,15.0,7,82
+REV0074,2020-11-28,2020,11,Terrible customer support and no response to complaints Please fix this immediately.,1,Negative,Yes,Indonesia,14.5,1,84
+REV0871,2020-12-01,2020,12,Fantastic app that works flawlessly without any issues Best decision to download this.,5,Positive,No,India,14.5,0,86
+REV0799,2020-12-03,2020,12,Very helpful app for identifying unknown callers and blocking spam Best decision to download this.,5,Positive,Yes,Indonesia,13.5,1,98
+REV0745,2020-12-15,2020,12,"Does not work properly on my device, keeps showing errors Needs major improvements.",1,Negative,Yes,India,15.5,6,83
+REV0312,2020-12-18,2020,12,Fantastic app that works flawlessly without any issues Very satisfied with this app.,4,Positive,No,UK,15.5,0,84
+REV0632,2020-12-19,2020,12,App is very slow and takes too long to load caller info Very disappointed.,1,Negative,Yes,Indonesia,14.0,0,74
+REV0860,2020-12-21,2020,12,"Keeps showing wrong names for contacts, very frustrating Needs major improvements.",1,Negative,No,Brazil,14.5,0,82
+REV0117,2020-12-22,2020,12,Brilliant app for managing calls and blocking telemarketers Very satisfied with this app.,5,Positive,Yes,India,15.0,0,89
+REV0919,2020-12-23,2020,12,Great app for blocking unwanted calls and identifying callers Best decision to download this.,5,Positive,No,Nigeria,15.5,3,93
+REV0881,2020-12-27,2020,12,Not bad but definitely not the best caller ID app out there Hope to see updates soon.,3,Neutral,No,Nigeria,14.5,3,85
+REV0385,2020-12-27,2020,12,Not bad but definitely not the best caller ID app out there Just okay for now.,3,Neutral,No,USA,13.5,1,78
+REV0219,2020-12-28,2020,12,Brilliant app for managing calls and blocking telemarketers Keep up the good work.,5,Positive,Yes,Nigeria,15.0,5,82
+REV0949,2021-01-10,2021,1,"Best caller ID app I have ever used, works perfectly Best decision to download this.",5,Positive,Yes,India,15.0,2,84
+REV0959,2021-01-12,2021,1,Acceptable performance but premium features are overpriced Room for improvement.,3,Neutral,Yes,Brazil,13.5,4,80
+REV0547,2021-01-12,2021,1,App is very slow and takes too long to load caller info Zero stars if possible.,1,Negative,Yes,Brazil,14.5,0,79
+REV0909,2021-01-13,2021,1,Perfect solution for spam calls and unknown numbers Great job developers.,4,Positive,Yes,India,14.0,1,73
+REV0741,2021-01-16,2021,1,Works sometimes but not consistent enough for daily use Just okay for now.,4,Neutral,Yes,India,14.5,11,74
+REV0372,2021-01-16,2021,1,Great app for blocking unwanted calls and identifying callers Highly recommended!,5,Positive,No,India,15.0,0,81
+REV0334,2021-01-16,2021,1,Fantastic app that works flawlessly without any issues Highly recommended!,4,Positive,No,India,15.5,0,74
+REV0854,2021-01-16,2021,1,Spam calls still getting through despite having this app Uninstalling this app now.,1,Negative,Yes,Nigeria,13.5,1,83
+REV0070,2021-01-19,2021,1,App is very slow and takes too long to load caller info Very disappointed.,1,Negative,No,India,15.0,4,74
+REV0581,2021-01-27,2021,1,"Really useful app, cannot imagine using phone without it Five stars from me.",5,Positive,No,Nigeria,15.0,2,76
+REV0824,2021-02-05,2021,2,Number lookup is wrong most of the time very inaccurate Please fix this immediately.,2,Negative,No,India,15.5,1,84
+REV0436,2021-02-08,2021,2,Battery draining app that makes phone run hot all the time Zero stars if possible.,1,Negative,No,UK,14.5,0,82
+REV0915,2021-02-08,2021,2,Number lookup is wrong most of the time very inaccurate Very disappointed.,2,Negative,No,USA,15.0,7,74
+REV0796,2021-02-13,2021,2,Perfect solution for spam calls and unknown numbers Best decision to download this.,5,Positive,Yes,Brazil,14.5,5,83
+REV0574,2021-02-14,2021,2,Decent app but there are better alternatives available Could be better.,4,Neutral,Yes,India,14.0,16,71
+REV0504,2021-02-17,2021,2,Very helpful app for identifying unknown callers and blocking spam Best decision to download this.,5,Positive,Yes,India,15.0,1,98
+REV0130,2021-02-27,2021,2,Terrible customer support and no response to complaints Uninstalling this app now.,1,Negative,No,UK,15.0,3,82
+REV0742,2021-02-27,2021,2,Love how it instantly identifies unknown numbers Highly recommended!,5,Positive,No,UK,14.5,2,68
+REV0345,2021-02-27,2021,2,This app has made my phone experience so much better Highly recommended!,5,Positive,Yes,India,14.0,1,72
+REV0263,2021-02-28,2021,2,"Worst update ever, completely ruined the user experience Dev team should address this.",2,Negative,No,India,13.0,3,86
+REV0704,2021-03-03,2021,3,App is very slow and takes too long to load caller info Please fix this immediately.,1,Negative,Yes,USA,15.5,4,84
+REV0592,2021-03-05,2021,3,Fantastic app that works flawlessly without any issues Highly recommended!,5,Positive,No,USA,15.5,0,74
+REV0918,2021-03-06,2021,3,Love how it instantly identifies unknown numbers Keep up the good work.,5,Positive,Yes,India,15.0,1,71
+REV0364,2021-03-06,2021,3,Too many ads and the premium version is very expensive Please fix this immediately.,1,Negative,No,India,13.0,1,83
+REV0276,2021-03-08,2021,3,Great app for blocking unwanted calls and identifying callers Will definitely recommend to friends.,5,Positive,No,India,13.5,8,99
+REV0409,2021-03-11,2021,3,Wonderful app with great user interface and smooth performance Great job developers.,5,Positive,Yes,Indonesia,15.0,1,84
+REV0543,2021-03-11,2021,3,Terrible customer support and no response to complaints Not worth the download.,1,Negative,No,India,15.0,0,79
+REV0607,2021-03-11,2021,3,"Neutral opinion, app does what it promises nothing more Room for improvement.",3,Neutral,No,India,14.0,7,77
+REV0620,2021-03-18,2021,3,Not bad but definitely not the best caller ID app out there Could be better.,3,Neutral,No,India,14.5,0,76
+REV0233,2021-03-19,2021,3,This app has made my phone experience so much better Keep up the good work.,5,Positive,No,Brazil,14.5,0,75
+REV0359,2021-03-19,2021,3,Amazing app that saves time by filtering spam calls Best decision to download this.,5,Positive,Yes,India,15.0,5,83
+REV0421,2021-03-20,2021,3,"Keeps showing wrong names for contacts, very frustrating Not worth the download.",1,Negative,No,India,15.5,0,80
+REV0820,2021-03-21,2021,3,Amazing app that saves time by filtering spam calls Will definitely recommend to friends.,5,Positive,Yes,India,15.5,1,89
+REV0636,2021-03-21,2021,3,Terrible customer support and no response to complaints Needs major improvements.,1,Negative,No,USA,14.0,2,81
+REV0352,2021-03-22,2021,3,"Neutral opinion, app does what it promises nothing more Room for improvement.",4,Neutral,No,Indonesia,13.5,0,77
+REV0008,2021-03-23,2021,3,Very helpful app for identifying unknown callers and blocking spam Best decision to download this.,5,Positive,Yes,USA,14.5,2,98
+REV0224,2021-03-26,2021,3,"Best caller ID app I have ever used, works perfectly Highly recommended!",4,Positive,Yes,India,15.5,3,72
+REV0501,2021-03-27,2021,3,Spam calls still getting through despite having this app Uninstalling this app now.,2,Negative,Yes,USA,15.0,5,83
+REV0859,2021-03-28,2021,3,"Disappointed with quality, expected much better performance Very disappointed.",1,Negative,Yes,India,15.5,4,78
+REV0553,2021-04-02,2021,4,Battery draining app that makes phone run hot all the time Needs major improvements.,1,Negative,No,USA,14.5,0,84
+REV0065,2021-04-06,2021,4,"Disappointed with quality, expected much better performance Dev team should address this.",2,Negative,No,India,15.5,4,89
+REV0107,2021-04-08,2021,4,Great app for blocking unwanted calls and identifying callers Keep up the good work.,4,Positive,Yes,India,13.0,1,84
+REV0802,2021-04-14,2021,4,Superb caller identification and spam protection features Will definitely recommend to friends.,5,Positive,Yes,Nigeria,14.0,5,95
+REV0169,2021-04-15,2021,4,"Best caller ID app I have ever used, works perfectly Great job developers.",5,Positive,No,Indonesia,15.5,0,74
+REV0155,2021-04-16,2021,4,Perfect solution for spam calls and unknown numbers Great job developers.,4,Positive,Yes,India,15.0,0,73
+REV0719,2021-04-16,2021,4,Terrible customer support and no response to complaints Needs major improvements.,2,Negative,Yes,Indonesia,13.5,6,81
+REV0748,2021-04-17,2021,4,"Disappointed with quality, expected much better performance Needs major improvements.",1,Negative,Yes,UK,13.0,1,85
+REV0815,2021-04-17,2021,4,Amazing app that saves time by filtering spam calls Great job developers.,5,Positive,Yes,UK,13.0,3,73
+REV0689,2021-04-19,2021,4,Great app for blocking unwanted calls and identifying callers Highly recommended!,4,Positive,Yes,India,15.0,3,81
+REV0786,2021-04-26,2021,4,Truecaller is a must-have app for every smartphone user Best decision to download this.,5,Positive,Yes,Brazil,15.0,1,87
+REV0131,2021-05-08,2021,5,Number lookup is wrong most of the time very inaccurate Needs major improvements.,1,Negative,No,India,14.0,7,81
+REV0728,2021-05-08,2021,5,Privacy concerns as it uploads contacts without permission Needs major improvements.,1,Negative,Yes,USA,13.5,1,84
+REV0788,2021-05-10,2021,5,Great app for blocking unwanted calls and identifying callers Very satisfied with this app.,5,Positive,No,India,15.5,5,91
+REV0187,2021-05-11,2021,5,Great app for blocking unwanted calls and identifying callers Best decision to download this.,5,Positive,Yes,India,15.5,9,93
+REV0183,2021-05-11,2021,5,Too much data collection and privacy invasion issues Not worth the download.,1,Negative,No,India,14.0,0,76
+REV0594,2021-05-11,2021,5,This app has made my phone experience so much better Best decision to download this.,5,Positive,Yes,Brazil,13.5,1,84
+REV0987,2021-05-13,2021,5,Not bad but definitely not the best caller ID app out there Hope to see updates soon.,3,Neutral,No,USA,13.5,10,85
+REV0249,2021-05-14,2021,5,Superb caller identification and spam protection features Very satisfied with this app.,5,Positive,Yes,India,14.0,0,87
+REV0584,2021-05-15,2021,5,Wonderful app with great user interface and smooth performance Keep up the good work.,5,Positive,No,Brazil,15.5,0,85
+REV0523,2021-05-15,2021,5,Acceptable performance but premium features are overpriced Could be better.,3,Neutral,Yes,USA,15.0,4,75
+REV0797,2021-05-23,2021,5,Superb caller identification and spam protection features Very satisfied with this app.,5,Positive,Yes,India,13.5,0,87
+REV0289,2021-05-25,2021,5,Too much data collection and privacy invasion issues Zero stars if possible.,2,Negative,No,USA,15.0,1,76
+REV0143,2021-05-25,2021,5,This app has made my phone experience so much better Will definitely recommend to friends.,5,Positive,Yes,India,13.0,1,90
+REV0164,2021-05-27,2021,5,"Really useful app, cannot imagine using phone without it Will definitely recommend to friends.",5,Positive,Yes,Brazil,13.5,0,94
+REV0418,2021-05-28,2021,5,Privacy concerns as it uploads contacts without permission Please fix this immediately.,2,Negative,No,India,15.5,1,87
+REV0889,2021-06-05,2021,6,"Really useful app, cannot imagine using phone without it Best decision to download this.",5,Positive,Yes,India,13.5,1,88
+REV0941,2021-06-06,2021,6,Number lookup is wrong most of the time very inaccurate Uninstalling this app now.,2,Negative,No,India,15.0,0,82
+REV0186,2021-06-06,2021,6,App keeps crashing frequently and drains battery fast Zero stars if possible.,1,Negative,No,India,15.0,2,77
+REV0206,2021-06-06,2021,6,Acceptable performance but premium features are overpriced Hope to see updates soon.,3,Neutral,No,India,15.0,1,84
+REV0934,2021-06-08,2021,6,"Disappointed with quality, expected much better performance Not worth the download.",2,Negative,No,India,13.5,3,83
+REV0756,2021-06-11,2021,6,Superb caller identification and spam protection features Five stars from me.,4,Positive,Yes,India,15.0,2,77
+REV0512,2021-06-27,2021,6,Wonderful app with great user interface and smooth performance Great job developers.,5,Positive,No,UK,15.0,2,84
+REV0737,2021-07-04,2021,7,Great app for blocking unwanted calls and identifying callers Best decision to download this.,4,Positive,Yes,India,13.5,9,93
+REV0309,2021-07-04,2021,7,App is fine but could use more features and better UI Not fully satisfied.,3,Neutral,Yes,Brazil,15.5,5,74
+REV0902,2021-07-06,2021,7,"Mixed experience with this app, some features work well Not fully satisfied.",3,Neutral,No,India,15.0,0,76
+REV0965,2021-07-12,2021,7,Amazing app that saves time by filtering spam calls Keep up the good work.,5,Positive,Yes,Brazil,15.5,0,74
+REV0150,2021-07-13,2021,7,App keeps crashing frequently and drains battery fast Very disappointed.,1,Negative,No,Nigeria,13.0,0,72
+REV0751,2021-07-13,2021,7,The app has become useless after the latest update Needs major improvements.,1,Negative,Yes,India,14.5,1,76
+REV0890,2021-07-17,2021,7,Decent app but there are better alternatives available Just okay for now.,4,Neutral,Yes,USA,15.5,0,73
+REV0544,2021-07-20,2021,7,Great app for blocking unwanted calls and identifying callers Five stars from me.,5,Positive,No,India,14.5,0,81
+REV0122,2021-07-22,2021,7,Amazing app that saves time by filtering spam calls Five stars from me.,5,Positive,Yes,India,14.0,5,71
+REV0861,2021-07-24,2021,7,"Worst update ever, completely ruined the user experience Very disappointed.",1,Negative,Yes,India,13.5,12,75
+REV0638,2021-07-26,2021,7,The app has become useless after the latest update Needs major improvements.,1,Negative,No,India,14.5,1,76
+REV0729,2021-07-26,2021,7,Amazing app that saves time by filtering spam calls Very satisfied with this app.,4,Positive,Yes,India,13.5,1,81
+REV0152,2021-08-01,2021,8,Terrible customer support and no response to complaints Zero stars if possible.,1,Negative,No,India,15.0,0,79
+REV0264,2021-08-01,2021,8,Too many ads and the premium version is very expensive Not worth the download.,1,Negative,No,India,15.0,2,78
+REV0988,2021-08-02,2021,8,Outstanding performance and very accurate caller ID Great job developers.,5,Positive,Yes,UK,15.5,3,73
+REV0319,2021-08-03,2021,8,"Best caller ID app I have ever used, works perfectly Best decision to download this.",4,Positive,No,Nigeria,15.5,1,84
+REV0518,2021-08-03,2021,8,"Mixed experience with this app, some features work well Just okay for now.",3,Neutral,No,India,15.0,0,74
+REV0814,2021-08-03,2021,8,Very helpful app for identifying unknown callers and blocking spam Five stars from me.,5,Positive,Yes,India,15.5,0,86
+REV0179,2021-08-04,2021,8,Love how it instantly identifies unknown numbers Best decision to download this.,4,Positive,No,India,13.0,0,80
+REV0600,2021-08-05,2021,8,Truecaller is a must-have app for every smartphone user Five stars from me.,5,Positive,No,USA,14.5,3,75
+REV0158,2021-08-05,2021,8,Privacy concerns as it uploads contacts without permission Dev team should address this.,2,Negative,No,India,13.5,6,88
+REV0161,2021-08-06,2021,8,Amazing app that saves time by filtering spam calls Best decision to download this.,5,Positive,Yes,India,14.0,1,83
+REV0697,2021-08-08,2021,8,"Keeps showing wrong names for contacts, very frustrating Zero stars if possible.",2,Negative,No,India,14.5,3,80
+REV0531,2021-08-10,2021,8,Fantastic app that works flawlessly without any issues Very satisfied with this app.,4,Positive,No,India,15.0,2,84
+REV0021,2021-08-13,2021,8,Number lookup is wrong most of the time very inaccurate Very disappointed.,2,Negative,Yes,India,14.0,1,74
+REV0389,2021-08-15,2021,8,"Keeps showing wrong names for contacts, very frustrating Needs major improvements.",1,Negative,No,India,15.0,3,82
+REV0962,2021-08-28,2021,8,"Excellent spam detection feature, highly recommended Highly recommended!",4,Positive,Yes,Nigeria,15.0,3,72
+REV0432,2021-08-28,2021,8,Very helpful app for identifying unknown callers and blocking spam Very satisfied with this app.,5,Positive,Yes,UK,15.5,4,96
+REV0040,2021-09-01,2021,9,Amazing app that saves time by filtering spam calls Great job developers.,5,Positive,Yes,India,15.0,0,73
+REV0540,2021-09-02,2021,9,Superb caller identification and spam protection features Will definitely recommend to friends.,4,Positive,Yes,Indonesia,15.0,2,95
+REV0414,2021-09-03,2021,9,Brilliant app for managing calls and blocking telemarketers Very satisfied with this app.,5,Positive,Yes,Nigeria,15.5,0,89
+REV0509,2021-09-03,2021,9,"Excellent spam detection feature, highly recommended Great job developers.",4,Positive,Yes,India,14.0,1,74
+REV0469,2021-09-09,2021,9,Great app for blocking unwanted calls and identifying callers Best decision to download this.,5,Positive,No,USA,15.0,0,93
+REV0559,2021-09-11,2021,9,Amazing app that saves time by filtering spam calls Will definitely recommend to friends.,4,Positive,Yes,India,15.5,2,89
+REV0110,2021-09-11,2021,9,Fantastic app that works flawlessly without any issues Best decision to download this.,4,Positive,No,India,15.0,2,86
+REV0297,2021-09-12,2021,9,Privacy concerns as it uploads contacts without permission Dev team should address this.,1,Negative,No,Brazil,13.0,6,88
+REV0567,2021-09-13,2021,9,Terrible customer support and no response to complaints Needs major improvements.,2,Negative,No,USA,13.5,0,81
+REV0749,2021-09-14,2021,9,Privacy concerns as it uploads contacts without permission Uninstalling this app now.,1,Negative,No,UK,15.0,4,85
+REV0610,2021-09-14,2021,9,This app has made my phone experience so much better Five stars from me.,4,Positive,No,India,15.0,7,72
+REV0240,2021-09-15,2021,9,Fantastic app that works flawlessly without any issues Best decision to download this.,4,Positive,No,UK,14.0,3,86
+REV0227,2021-09-16,2021,9,App is fine but could use more features and better UI Might switch to another app.,3,Neutral,No,USA,15.5,0,82
+REV0769,2021-09-17,2021,9,Decent app but there are better alternatives available Hope to see updates soon.,3,Neutral,No,India,14.5,0,80
+REV0139,2021-09-18,2021,9,"Does not work properly on my device, keeps showing errors Needs major improvements.",1,Negative,No,India,13.5,0,83
+REV0804,2021-09-19,2021,9,App is fine but could use more features and better UI Just okay for now.,3,Neutral,Yes,India,14.5,1,72
+REV0839,2021-09-20,2021,9,The app has become useless after the latest update Not worth the download.,1,Negative,Yes,India,15.0,2,74
+REV0738,2021-09-24,2021,9,App is very slow and takes too long to load caller info Very disappointed.,2,Negative,No,India,14.0,0,74
+REV0210,2021-09-25,2021,9,Number lookup is wrong most of the time very inaccurate Please fix this immediately.,1,Negative,No,India,13.5,2,84
+REV0033,2021-09-28,2021,9,"Neutral opinion, app does what it promises nothing more Just okay for now.",3,Neutral,No,India,15.0,6,74
+REV0172,2021-10-01,2021,10,App is fine but could use more features and better UI Could be better.,4,Neutral,No,Brazil,13.0,2,70
+REV0481,2021-10-05,2021,10,Outstanding performance and very accurate caller ID Highly recommended!,5,Positive,No,India,13.5,8,71
+REV0975,2021-10-05,2021,10,Regular updates but the core functionality stays the same Not fully satisfied.,3,Neutral,Yes,UK,14.5,2,78
+REV0679,2021-10-08,2021,10,Very buggy app with constant notifications that annoy me Zero stars if possible.,2,Negative,No,UK,15.0,2,80
+REV0211,2021-10-08,2021,10,Outstanding performance and very accurate caller ID Best decision to download this.,5,Positive,No,India,13.0,0,83
+REV0979,2021-10-09,2021,10,The app has become useless after the latest update Very disappointed.,1,Negative,Yes,India,15.0,5,69
+REV0225,2021-10-10,2021,10,Too much data collection and privacy invasion issues Dev team should address this.,1,Negative,No,India,15.5,0,82
+REV0862,2021-10-12,2021,10,"Really useful app, cannot imagine using phone without it Highly recommended!",4,Positive,Yes,Brazil,14.5,2,76
+REV0377,2021-10-13,2021,10,Outstanding performance and very accurate caller ID Will definitely recommend to friends.,5,Positive,No,India,15.5,2,89
+REV0448,2021-10-18,2021,10,"Really useful app, cannot imagine using phone without it Will definitely recommend to friends.",5,Positive,Yes,India,13.5,1,94
+REV0398,2021-10-18,2021,10,"Mixed experience with this app, some features work well Hope to see updates soon.",3,Neutral,No,USA,14.5,2,81
+REV0255,2021-10-19,2021,10,Brilliant app for managing calls and blocking telemarketers Keep up the good work.,4,Positive,Yes,India,15.5,2,82
+REV0363,2021-10-20,2021,10,Brilliant app for managing calls and blocking telemarketers Keep up the good work.,5,Positive,Yes,Brazil,14.0,3,82
+REV0589,2021-10-22,2021,10,Not bad but definitely not the best caller ID app out there Just okay for now.,3,Neutral,No,Brazil,14.5,1,78
+REV0927,2021-10-23,2021,10,Very helpful app for identifying unknown callers and blocking spam Five stars from me.,5,Positive,Yes,USA,14.5,18,86
+REV0695,2021-10-25,2021,10,Too many ads and the premium version is very expensive Uninstalling this app now.,1,Negative,No,India,14.5,0,81
+REV0853,2021-11-03,2021,11,Too much data collection and privacy invasion issues Not worth the download.,2,Negative,No,USA,14.5,1,76
+REV0813,2021-11-03,2021,11,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,4,Positive,No,USA,15.0,3,93
+REV0166,2021-11-03,2021,11,"Worst update ever, completely ruined the user experience Very disappointed.",2,Negative,No,USA,14.5,0,75
+REV0038,2021-11-10,2021,11,Wonderful app with great user interface and smooth performance Highly recommended!,5,Positive,No,India,15.5,1,82
+REV0590,2021-11-13,2021,11,Amazing app that saves time by filtering spam calls Great job developers.,4,Positive,Yes,India,15.0,0,73
+REV0626,2021-11-14,2021,11,Okay for basic call identification but needs improvement Could be better.,4,Neutral,No,UK,14.0,0,73
+REV0091,2021-11-14,2021,11,Average app with some good features and some bad ones Could be better.,3,Neutral,No,UK,15.0,1,70
+REV0675,2021-11-14,2021,11,"Really useful app, cannot imagine using phone without it Very satisfied with this app.",5,Positive,No,USA,15.5,0,86
+REV0634,2021-11-17,2021,11,"Excellent spam detection feature, highly recommended Five stars from me.",5,Positive,Yes,Indonesia,15.5,12,72
+REV0740,2021-11-19,2021,11,Love how it instantly identifies unknown numbers Will definitely recommend to friends.,4,Positive,No,Brazil,15.5,0,86
+REV0019,2021-11-21,2021,11,"Excellent spam detection feature, highly recommended Very satisfied with this app.",4,Positive,Yes,India,15.5,4,82
+REV0842,2021-11-22,2021,11,Fantastic app that works flawlessly without any issues Best decision to download this.,5,Positive,No,India,14.0,4,86
+REV0491,2021-12-03,2021,12,Fantastic app that works flawlessly without any issues Keep up the good work.,5,Positive,No,UK,15.5,0,77
+REV0330,2021-12-03,2021,12,Superb caller identification and spam protection features Highly recommended!,5,Positive,Yes,India,15.5,5,77
+REV0746,2021-12-04,2021,12,App is fine but could use more features and better UI Could be better.,4,Neutral,Yes,India,15.0,1,70
+REV0683,2021-12-06,2021,12,Fantastic app that works flawlessly without any issues Highly recommended!,5,Positive,Yes,India,13.0,0,74
+REV0248,2021-12-10,2021,12,Amazing app that saves time by filtering spam calls Will definitely recommend to friends.,4,Positive,Yes,India,14.5,3,89
+REV0663,2021-12-16,2021,12,Brilliant app for managing calls and blocking telemarketers Very satisfied with this app.,5,Positive,Yes,Nigeria,14.5,2,89
+REV0236,2021-12-16,2021,12,Great app for blocking unwanted calls and identifying callers Will definitely recommend to friends.,4,Positive,Yes,India,15.0,8,99
+REV0069,2021-12-16,2021,12,"Neutral opinion, app does what it promises nothing more Not fully satisfied.",3,Neutral,Yes,Indonesia,15.5,2,76
+REV0565,2021-12-16,2021,12,Truecaller is a must-have app for every smartphone user Very satisfied with this app.,5,Positive,Yes,USA,13.0,3,85
+REV0570,2021-12-16,2021,12,The app has become useless after the latest update Uninstalling this app now.,1,Negative,Yes,USA,14.0,0,77
+REV0202,2021-12-18,2021,12,App is very slow and takes too long to load caller info Please fix this immediately.,1,Negative,Yes,Indonesia,14.5,1,84
+REV0027,2021-12-18,2021,12,Privacy concerns as it uploads contacts without permission Very disappointed.,2,Negative,No,UK,14.5,3,77
+REV0623,2021-12-18,2021,12,This app has made my phone experience so much better Very satisfied with this app.,5,Positive,No,India,15.0,4,82
+REV0784,2021-12-20,2021,12,Great app for blocking unwanted calls and identifying callers Best decision to download this.,5,Positive,No,India,15.0,2,93
+REV0304,2021-12-22,2021,12,"Worst update ever, completely ruined the user experience Needs major improvements.",1,Negative,Yes,India,15.0,4,82
+REV0346,2021-12-24,2021,12,Very buggy app with constant notifications that annoy me Please fix this immediately.,1,Negative,No,Nigeria,15.5,6,85
+REV0068,2021-12-24,2021,12,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",5,Positive,Yes,Nigeria,14.5,0,90
+REV0693,2021-12-24,2021,12,Privacy concerns as it uploads contacts without permission Dev team should address this.,1,Negative,Yes,India,15.0,5,88
+REV0175,2021-12-25,2021,12,Decent app but there are better alternatives available Could be better.,3,Neutral,Yes,India,15.5,0,71
+REV0051,2022-01-03,2022,1,Outstanding performance and very accurate caller ID Five stars from me.,5,Positive,No,USA,15.0,11,71
+REV0102,2022-01-06,2022,1,Wonderful app with great user interface and smooth performance Will definitely recommend to friends.,5,Positive,No,UK,13.0,4,100
+REV0403,2022-01-08,2022,1,Fantastic app that works flawlessly without any issues Five stars from me.,4,Positive,No,Indonesia,14.5,0,74
+REV0132,2022-01-08,2022,1,Privacy concerns as it uploads contacts without permission Please fix this immediately.,1,Negative,No,Indonesia,14.0,2,87
+REV0059,2022-01-13,2022,1,Fantastic app that works flawlessly without any issues Highly recommended!,5,Positive,No,Nigeria,15.0,0,74
+REV0858,2022-01-16,2022,1,App keeps crashing frequently and drains battery fast Very disappointed.,2,Negative,No,Nigeria,15.0,6,72
+REV0205,2022-01-19,2022,1,"Best caller ID app I have ever used, works perfectly Best decision to download this.",5,Positive,Yes,India,15.5,1,84
+REV0724,2022-01-24,2022,1,Perfect solution for spam calls and unknown numbers Great job developers.,4,Positive,Yes,India,15.5,5,73
+REV0985,2022-02-04,2022,2,Outstanding performance and very accurate caller ID Great job developers.,5,Positive,No,Brazil,14.0,0,73
+REV0386,2022-02-05,2022,2,Amazing app that saves time by filtering spam calls Five stars from me.,5,Positive,Yes,UK,15.5,0,71
+REV0873,2022-02-07,2022,2,Too much data collection and privacy invasion issues Uninstalling this app now.,1,Negative,No,India,15.0,3,79
+REV0950,2022-02-11,2022,2,App is very slow and takes too long to load caller info Please fix this immediately.,1,Negative,Yes,India,15.5,1,84
+REV0694,2022-02-14,2022,2,Not bad but definitely not the best caller ID app out there Could be better.,3,Neutral,Yes,India,15.0,1,76
+REV0470,2022-02-14,2022,2,Too much data collection and privacy invasion issues Zero stars if possible.,2,Negative,No,India,13.0,1,76
+REV0138,2022-02-15,2022,2,Wonderful app with great user interface and smooth performance Best decision to download this.,5,Positive,Yes,Nigeria,14.5,1,94
+REV0864,2022-02-15,2022,2,Very helpful app for identifying unknown callers and blocking spam Will definitely recommend to friends.,5,Positive,Yes,Brazil,13.5,8,104
+REV0335,2022-02-16,2022,2,Love how it instantly identifies unknown numbers Very satisfied with this app.,5,Positive,No,Brazil,13.5,2,78
+REV0081,2022-02-18,2022,2,Terrible customer support and no response to complaints Please fix this immediately.,2,Negative,Yes,USA,15.0,6,84
+REV0397,2022-02-20,2022,2,"Best caller ID app I have ever used, works perfectly Very satisfied with this app.",5,Positive,No,Brazil,15.5,5,82
+REV0095,2022-02-23,2022,2,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,5,Positive,Yes,India,15.5,1,86
+REV0401,2022-02-26,2022,2,Very helpful app for identifying unknown callers and blocking spam Will definitely recommend to friends.,4,Positive,Yes,India,15.0,2,104
+REV0893,2022-02-26,2022,2,"Best caller ID app I have ever used, works perfectly Will definitely recommend to friends.",5,Positive,No,India,14.0,11,90
+REV0667,2022-02-27,2022,2,"Really useful app, cannot imagine using phone without it Best decision to download this.",5,Positive,No,India,15.0,4,88
+REV0726,2022-02-27,2022,2,Battery draining app that makes phone run hot all the time Needs major improvements.,1,Negative,No,Indonesia,15.0,2,84
+REV0994,2022-02-28,2022,2,Too much data collection and privacy invasion issues Needs major improvements.,2,Negative,Yes,Indonesia,14.5,4,78
+REV0711,2022-03-03,2022,3,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",5,Positive,Yes,India,15.0,1,90
+REV0277,2022-03-06,2022,3,Terrible customer support and no response to complaints Needs major improvements.,1,Negative,Yes,India,15.0,2,81
+REV0279,2022-03-08,2022,3,Wonderful app with great user interface and smooth performance Great job developers.,5,Positive,No,Nigeria,15.5,4,84
+REV0863,2022-03-08,2022,3,Fantastic app that works flawlessly without any issues Highly recommended!,4,Positive,No,Brazil,15.5,0,74
+REV0826,2022-03-08,2022,3,Great app for blocking unwanted calls and identifying callers Best decision to download this.,4,Positive,Yes,UK,14.5,4,93
+REV0767,2022-03-11,2022,3,App is very slow and takes too long to load caller info Very disappointed.,1,Negative,No,India,14.0,4,74
+REV0097,2022-03-14,2022,3,Outstanding performance and very accurate caller ID Great job developers.,5,Positive,Yes,India,14.5,11,73
+REV0468,2022-03-16,2022,3,"Mixed experience with this app, some features work well Just okay for now.",4,Neutral,No,Indonesia,15.5,0,74
+REV0766,2022-03-18,2022,3,"Disappointed with quality, expected much better performance Needs major improvements.",1,Negative,Yes,India,14.5,3,85
+REV0444,2022-03-18,2022,3,Truecaller is a must-have app for every smartphone user Best decision to download this.,5,Positive,No,Nigeria,14.0,3,87
+REV0325,2022-03-18,2022,3,Battery draining app that makes phone run hot all the time Very disappointed.,1,Negative,Yes,India,14.5,1,77
+REV0794,2022-03-19,2022,3,Love how it instantly identifies unknown numbers Will definitely recommend to friends.,5,Positive,No,Indonesia,15.5,0,86
+REV0387,2022-03-20,2022,3,"Excellent spam detection feature, highly recommended Five stars from me.",5,Positive,Yes,India,15.5,3,72
+REV0792,2022-03-23,2022,3,Amazing app that saves time by filtering spam calls Five stars from me.,4,Positive,Yes,Brazil,14.5,1,71
+REV0492,2022-03-23,2022,3,"Excellent spam detection feature, highly recommended Keep up the good work.",5,Positive,Yes,Indonesia,15.5,3,75
+REV0541,2022-03-23,2022,3,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,5,Positive,Yes,UK,15.0,0,86
+REV0473,2022-03-23,2022,3,Brilliant app for managing calls and blocking telemarketers Will definitely recommend to friends.,4,Positive,Yes,Nigeria,15.5,0,97
+REV0968,2022-03-25,2022,3,Outstanding performance and very accurate caller ID Highly recommended!,5,Positive,No,India,14.5,11,71
+REV0442,2022-03-25,2022,3,Acceptable performance but premium features are overpriced Not fully satisfied.,3,Neutral,No,India,14.0,1,79
+REV0459,2022-03-27,2022,3,Battery draining app that makes phone run hot all the time Needs major improvements.,2,Negative,No,UK,14.0,1,84
+REV0554,2022-04-01,2022,4,Too much data collection and privacy invasion issues Please fix this immediately.,2,Negative,No,India,15.5,2,81
+REV0836,2022-04-02,2022,4,Very helpful app for identifying unknown callers and blocking spam Keep up the good work.,5,Positive,Yes,USA,14.0,0,89
+REV0488,2022-04-04,2022,4,"Disappointed with quality, expected much better performance Zero stars if possible.",1,Negative,Yes,Nigeria,15.5,12,83
+REV0627,2022-04-07,2022,4,Wonderful app with great user interface and smooth performance Highly recommended!,5,Positive,Yes,Brazil,13.5,3,82
+REV0782,2022-04-07,2022,4,Perfect solution for spam calls and unknown numbers Best decision to download this.,4,Positive,Yes,Indonesia,14.5,1,83
+REV0641,2022-04-10,2022,4,Truecaller is a must-have app for every smartphone user Best decision to download this.,4,Positive,No,India,14.0,3,87
+REV0438,2022-04-13,2022,4,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,Indonesia,13.5,3,80
+REV0341,2022-04-14,2022,4,"Neutral opinion, app does what it promises nothing more Not fully satisfied.",3,Neutral,No,India,15.5,3,76
+REV0997,2022-04-15,2022,4,Fantastic app that works flawlessly without any issues Highly recommended!,4,Positive,Yes,USA,15.0,0,74
+REV0054,2022-04-18,2022,4,Fantastic app that works flawlessly without any issues Will definitely recommend to friends.,4,Positive,Yes,UK,15.0,0,92
+REV0709,2022-04-19,2022,4,"Disappointed with quality, expected much better performance Not worth the download.",2,Negative,No,India,14.5,2,83
+REV0332,2022-04-20,2022,4,"Does not work properly on my device, keeps showing errors Not worth the download.",1,Negative,Yes,UK,15.5,0,81
+REV0539,2022-04-20,2022,4,Perfect solution for spam calls and unknown numbers Five stars from me.,4,Positive,Yes,USA,14.0,0,71
+REV0487,2022-04-20,2022,4,Too much data collection and privacy invasion issues Zero stars if possible.,2,Negative,Yes,India,14.5,3,76
+REV0603,2022-04-22,2022,4,Truecaller is a must-have app for every smartphone user Best decision to download this.,5,Positive,No,India,15.0,5,87
+REV0449,2022-04-23,2022,4,Superb caller identification and spam protection features Great job developers.,5,Positive,Yes,USA,13.0,1,79
+REV0629,2022-04-24,2022,4,"Really useful app, cannot imagine using phone without it Highly recommended!",4,Positive,Yes,Nigeria,14.5,3,76
+REV0106,2022-04-27,2022,4,"Does not work properly on my device, keeps showing errors Very disappointed.",2,Negative,No,India,13.5,1,76
+REV0274,2022-05-01,2022,5,Works sometimes but not consistent enough for daily use Not fully satisfied.,4,Neutral,Yes,Brazil,15.0,2,76
+REV0125,2022-05-07,2022,5,Very helpful app for identifying unknown callers and blocking spam Keep up the good work.,5,Positive,Yes,India,15.5,2,89
+REV0462,2022-05-07,2022,5,This app has made my phone experience so much better Highly recommended!,4,Positive,Yes,UK,13.5,0,72
+REV0635,2022-05-09,2022,5,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,5,Positive,Yes,India,13.5,0,93
+REV0472,2022-05-10,2022,5,"Worst update ever, completely ruined the user experience Needs major improvements.",1,Negative,No,India,14.5,3,82
+REV0358,2022-05-11,2022,5,Too much data collection and privacy invasion issues Dev team should address this.,1,Negative,No,Brazil,14.5,1,82
+REV0524,2022-05-13,2022,5,"Best caller ID app I have ever used, works perfectly Highly recommended!",4,Positive,No,Nigeria,15.0,2,72
+REV0787,2022-05-20,2022,5,"Worst update ever, completely ruined the user experience Not worth the download.",2,Negative,No,Nigeria,14.5,0,80
+REV0564,2022-05-23,2022,5,"Excellent spam detection feature, highly recommended Best decision to download this.",5,Positive,Yes,India,13.0,0,84
+REV0598,2022-05-23,2022,5,Superb caller identification and spam protection features Very satisfied with this app.,5,Positive,Yes,India,14.5,4,87
+REV0226,2022-05-23,2022,5,Acceptable performance but premium features are overpriced Not fully satisfied.,3,Neutral,No,UK,14.5,6,79
+REV0408,2022-05-24,2022,5,Very buggy app with constant notifications that annoy me Uninstalling this app now.,2,Negative,No,India,14.0,0,83
+REV0429,2022-05-25,2022,5,"Does not work properly on my device, keeps showing errors Dev team should address this.",2,Negative,No,Nigeria,14.5,1,87
+REV0696,2022-06-01,2022,6,Outstanding performance and very accurate caller ID Will definitely recommend to friends.,5,Positive,No,India,15.5,16,89
+REV0533,2022-06-02,2022,6,Not bad but definitely not the best caller ID app out there Hope to see updates soon.,3,Neutral,No,India,15.5,6,85
+REV0645,2022-06-03,2022,6,"Best caller ID app I have ever used, works perfectly Will definitely recommend to friends.",5,Positive,No,UK,15.0,0,90
+REV0407,2022-06-04,2022,6,Great app for blocking unwanted calls and identifying callers Highly recommended!,5,Positive,No,India,15.0,2,81
+REV0855,2022-06-06,2022,6,Regular updates but the core functionality stays the same Room for improvement.,3,Neutral,Yes,India,14.5,5,79
+REV0382,2022-06-08,2022,6,App is fine but could use more features and better UI Not fully satisfied.,3,Neutral,Yes,India,15.0,0,74
+REV0290,2022-06-08,2022,6,Outstanding performance and very accurate caller ID Best decision to download this.,5,Positive,No,India,14.5,1,83
+REV0410,2022-06-10,2022,6,The app has become useless after the latest update Very disappointed.,1,Negative,No,USA,14.5,1,69
+REV0083,2022-06-10,2022,6,Wonderful app with great user interface and smooth performance Five stars from me.,4,Positive,Yes,India,15.0,0,82
+REV0463,2022-06-10,2022,6,Number lookup is wrong most of the time very inaccurate Please fix this immediately.,1,Negative,No,India,13.0,0,84
+REV0480,2022-06-12,2022,6,"Keeps showing wrong names for contacts, very frustrating Needs major improvements.",1,Negative,No,India,15.0,0,82
+REV0338,2022-06-13,2022,6,"Neutral opinion, app does what it promises nothing more Not fully satisfied.",3,Neutral,No,India,15.0,11,76
+REV0717,2022-06-14,2022,6,Great app for blocking unwanted calls and identifying callers Will definitely recommend to friends.,4,Positive,No,USA,13.5,8,99
+REV0569,2022-06-15,2022,6,Brilliant app for managing calls and blocking telemarketers Highly recommended!,4,Positive,Yes,India,13.0,1,79
+REV0910,2022-06-16,2022,6,"Keeps showing wrong names for contacts, very frustrating Needs major improvements.",1,Negative,No,India,15.5,9,82
+REV0331,2022-06-17,2022,6,This app has made my phone experience so much better Will definitely recommend to friends.,5,Positive,No,India,13.5,0,90
+REV0545,2022-06-17,2022,6,App is very slow and takes too long to load caller info Not worth the download.,1,Negative,No,USA,15.0,3,79
+REV0706,2022-06-18,2022,6,App keeps crashing frequently and drains battery fast Please fix this immediately.,1,Negative,Yes,Nigeria,13.0,1,82
+REV0317,2022-06-18,2022,6,Too many ads and the premium version is very expensive Needs major improvements.,1,Negative,No,Brazil,15.0,0,80
+REV0348,2022-06-22,2022,6,Superb caller identification and spam protection features Great job developers.,5,Positive,Yes,India,13.5,3,79
+REV0294,2022-06-24,2022,6,Very helpful app for identifying unknown callers and blocking spam Great job developers.,5,Positive,Yes,Brazil,13.5,2,88
+REV0092,2022-06-25,2022,6,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,5,Positive,Yes,Brazil,15.0,5,86
+REV0342,2022-06-27,2022,6,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,5,Positive,No,India,14.5,1,93
+REV0066,2022-07-02,2022,7,Acceptable performance but premium features are overpriced Room for improvement.,3,Neutral,Yes,Brazil,14.5,8,80
+REV0790,2022-07-02,2022,7,Perfect solution for spam calls and unknown numbers Best decision to download this.,4,Positive,Yes,India,14.5,2,83
+REV0639,2022-07-05,2022,7,Too much data collection and privacy invasion issues Zero stars if possible.,1,Negative,Yes,Brazil,15.5,1,76
+REV0552,2022-07-05,2022,7,Perfect solution for spam calls and unknown numbers Best decision to download this.,4,Positive,Yes,India,15.0,3,83
+REV0057,2022-07-12,2022,7,Okay for basic call identification but needs improvement Not fully satisfied.,4,Neutral,No,India,14.5,1,77
+REV0415,2022-07-17,2022,7,Fantastic app that works flawlessly without any issues Very satisfied with this app.,5,Positive,No,Nigeria,15.0,1,84
+REV0381,2022-07-17,2022,7,Love how it instantly identifies unknown numbers Great job developers.,5,Positive,Yes,India,13.5,0,70
+REV0981,2022-07-18,2022,7,Love how it instantly identifies unknown numbers Great job developers.,5,Positive,Yes,Indonesia,14.5,1,70
+REV0032,2022-07-20,2022,7,Too many ads and the premium version is very expensive Zero stars if possible.,1,Negative,No,India,13.5,6,78
+REV0412,2022-07-21,2022,7,"Excellent spam detection feature, highly recommended Great job developers.",4,Positive,Yes,India,14.0,9,74
+REV0750,2022-07-21,2022,7,Number lookup is wrong most of the time very inaccurate Dev team should address this.,2,Negative,Yes,India,14.0,1,85
+REV0076,2022-07-22,2022,7,Terrible customer support and no response to complaints Please fix this immediately.,1,Negative,No,Nigeria,13.5,2,84
+REV0843,2022-07-24,2022,7,"Excellent spam detection feature, highly recommended Very satisfied with this app.",4,Positive,Yes,USA,14.5,0,82
+REV0708,2022-07-25,2022,7,App is very slow and takes too long to load caller info Zero stars if possible.,1,Negative,Yes,Indonesia,14.0,0,79
+REV0105,2022-07-28,2022,7,Too much data collection and privacy invasion issues Please fix this immediately.,1,Negative,Yes,UK,13.0,0,81
+REV0474,2022-08-02,2022,8,"Does not work properly on my device, keeps showing errors Uninstalling this app now.",1,Negative,No,Brazil,15.5,9,84
+REV0142,2022-08-06,2022,8,Wonderful app with great user interface and smooth performance Great job developers.,5,Positive,No,USA,13.5,4,84
+REV0744,2022-08-12,2022,8,Truecaller is a must-have app for every smartphone user Great job developers.,5,Positive,No,India,15.5,0,77
+REV0798,2022-08-16,2022,8,"Disappointed with quality, expected much better performance Uninstalling this app now.",1,Negative,Yes,India,15.5,7,86
+REV0498,2022-08-17,2022,8,Too much data collection and privacy invasion issues Needs major improvements.,2,Negative,No,Indonesia,13.5,2,78
+REV0558,2022-08-17,2022,8,"Worst update ever, completely ruined the user experience Needs major improvements.",1,Negative,No,UK,14.0,0,82
+REV0922,2022-08-18,2022,8,Battery draining app that makes phone run hot all the time Dev team should address this.,1,Negative,Yes,India,15.0,0,88
+REV0972,2022-08-19,2022,8,The app has become useless after the latest update Dev team should address this.,1,Negative,No,India,15.5,1,80
+REV0730,2022-08-20,2022,8,Love how it instantly identifies unknown numbers Highly recommended!,5,Positive,No,Brazil,13.5,2,68
+REV0845,2022-08-20,2022,8,Very buggy app with constant notifications that annoy me Please fix this immediately.,1,Negative,No,India,15.5,0,85
+REV0628,2022-08-20,2022,8,Outstanding performance and very accurate caller ID Highly recommended!,4,Positive,No,India,15.0,1,71
+REV0460,2022-08-21,2022,8,Acceptable performance but premium features are overpriced Not fully satisfied.,3,Neutral,Yes,Nigeria,15.0,0,79
+REV0765,2022-08-21,2022,8,Very buggy app with constant notifications that annoy me Very disappointed.,2,Negative,No,India,15.0,3,75
+REV0390,2022-08-22,2022,8,Perfect solution for spam calls and unknown numbers Great job developers.,5,Positive,Yes,India,13.5,1,73
+REV0180,2022-08-23,2022,8,Not bad but definitely not the best caller ID app out there Not fully satisfied.,3,Neutral,Yes,UK,14.0,8,80
+REV0399,2022-08-26,2022,8,Too much data collection and privacy invasion issues Please fix this immediately.,2,Negative,No,India,14.5,0,81
+REV0096,2022-09-02,2022,9,Wonderful app with great user interface and smooth performance Five stars from me.,5,Positive,No,USA,15.5,8,82
+REV0237,2022-09-02,2022,9,Love how it instantly identifies unknown numbers Best decision to download this.,4,Positive,No,Indonesia,14.5,2,80
+REV0367,2022-09-04,2022,9,Truecaller is a must-have app for every smartphone user Best decision to download this.,5,Positive,Yes,India,15.5,0,87
+REV0072,2022-09-06,2022,9,This app has made my phone experience so much better Great job developers.,5,Positive,Yes,India,13.5,4,74
+REV0885,2022-09-12,2022,9,Love how it instantly identifies unknown numbers Highly recommended!,5,Positive,No,India,15.5,6,68
+REV0870,2022-09-12,2022,9,Very helpful app for identifying unknown callers and blocking spam Five stars from me.,5,Positive,Yes,UK,14.0,0,86
+REV0061,2022-09-15,2022,9,Truecaller is a must-have app for every smartphone user Five stars from me.,5,Positive,Yes,India,15.5,1,75
+REV0705,2022-09-17,2022,9,"Does not work properly on my device, keeps showing errors Not worth the download.",2,Negative,No,USA,14.5,0,81
+REV0606,2022-09-17,2022,9,Too many ads and the premium version is very expensive Please fix this immediately.,1,Negative,Yes,India,13.5,1,83
+REV0974,2022-09-19,2022,9,Too much data collection and privacy invasion issues Please fix this immediately.,2,Negative,No,India,13.5,0,81
+REV0829,2022-09-20,2022,9,App is fine but could use more features and better UI Room for improvement.,3,Neutral,No,Nigeria,15.0,3,75
+REV0181,2022-09-21,2022,9,Privacy concerns as it uploads contacts without permission Needs major improvements.,1,Negative,Yes,Nigeria,15.5,1,84
+REV0116,2022-09-22,2022,9,Superb caller identification and spam protection features Best decision to download this.,5,Positive,Yes,India,13.5,2,89
+REV0892,2022-09-24,2022,9,"Really useful app, cannot imagine using phone without it Will definitely recommend to friends.",4,Positive,No,UK,15.0,16,94
+REV0239,2022-09-27,2022,9,Very buggy app with constant notifications that annoy me Dev team should address this.,2,Negative,No,India,14.5,3,86
+REV0124,2022-09-27,2022,9,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",5,Positive,Yes,India,15.0,2,90
+REV0776,2022-09-27,2022,9,"Excellent spam detection feature, highly recommended Best decision to download this.",5,Positive,Yes,Brazil,14.5,0,84
+REV0431,2022-10-05,2022,10,Truecaller is a must-have app for every smartphone user Best decision to download this.,5,Positive,No,India,15.0,2,87
+REV0548,2022-10-10,2022,10,Okay for basic call identification but needs improvement Hope to see updates soon.,4,Neutral,No,India,14.5,4,82
+REV0834,2022-10-14,2022,10,Very buggy app with constant notifications that annoy me Dev team should address this.,1,Negative,No,India,15.5,1,86
+REV0515,2022-10-14,2022,10,The app has become useless after the latest update Very disappointed.,2,Negative,No,India,15.0,0,69
+REV0983,2022-10-17,2022,10,Brilliant app for managing calls and blocking telemarketers Great job developers.,4,Positive,Yes,India,15.5,1,81
+REV0723,2022-10-18,2022,10,Outstanding performance and very accurate caller ID Five stars from me.,5,Positive,Yes,India,15.0,6,71
+REV0230,2022-10-19,2022,10,Fantastic app that works flawlessly without any issues Best decision to download this.,5,Positive,No,India,14.5,2,86
+REV0213,2022-10-20,2022,10,Very buggy app with constant notifications that annoy me Uninstalling this app now.,1,Negative,Yes,India,14.0,12,83
+REV0478,2022-10-22,2022,10,Average app with some good features and some bad ones Room for improvement.,3,Neutral,No,USA,15.0,4,75
+REV0823,2022-10-22,2022,10,Works sometimes but not consistent enough for daily use Hope to see updates soon.,3,Neutral,No,India,15.5,2,81
+REV0185,2022-10-22,2022,10,Acceptable performance but premium features are overpriced Might switch to another app.,3,Neutral,No,Brazil,15.0,0,87
+REV0783,2022-10-23,2022,10,Perfect solution for spam calls and unknown numbers Very satisfied with this app.,5,Positive,Yes,Nigeria,15.0,2,81
+REV0174,2022-10-23,2022,10,Truecaller is a must-have app for every smartphone user Highly recommended!,5,Positive,No,Brazil,14.5,2,75
+REV0244,2022-10-26,2022,10,Very helpful app for identifying unknown callers and blocking spam Very satisfied with this app.,5,Positive,Yes,USA,13.5,3,96
+REV0896,2022-11-03,2022,11,Fantastic app that works flawlessly without any issues Very satisfied with this app.,5,Positive,No,Brazil,14.5,4,84
+REV0220,2022-11-08,2022,11,This app has made my phone experience so much better Highly recommended!,5,Positive,No,UK,13.5,0,72
+REV0178,2022-11-11,2022,11,Too many ads and the premium version is very expensive Not worth the download.,1,Negative,Yes,UK,14.0,0,78
+REV0758,2022-11-11,2022,11,This app has made my phone experience so much better Great job developers.,4,Positive,No,Brazil,13.0,3,74
+REV0177,2022-11-12,2022,11,Spam calls still getting through despite having this app Zero stars if possible.,1,Negative,Yes,USA,15.5,12,80
+REV0283,2022-11-14,2022,11,Outstanding performance and very accurate caller ID Keep up the good work.,4,Positive,No,India,13.0,0,74
+REV0160,2022-11-14,2022,11,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,5,Positive,Yes,India,14.0,4,86
+REV0516,2022-11-18,2022,11,Very helpful app for identifying unknown callers and blocking spam Will definitely recommend to friends.,5,Positive,Yes,Brazil,14.0,3,104
+REV0428,2022-11-19,2022,11,Truecaller is a must-have app for every smartphone user Keep up the good work.,4,Positive,No,India,14.0,0,78
+REV0413,2022-11-23,2022,11,Not bad but definitely not the best caller ID app out there Room for improvement.,4,Neutral,No,Nigeria,13.5,4,81
+REV0301,2022-11-24,2022,11,Works sometimes but not consistent enough for daily use Room for improvement.,4,Neutral,No,India,14.5,4,77
+REV0779,2022-11-25,2022,11,Too much data collection and privacy invasion issues Dev team should address this.,2,Negative,Yes,Nigeria,15.0,0,82
+REV0680,2022-11-27,2022,11,Number lookup is wrong most of the time very inaccurate Uninstalling this app now.,1,Negative,No,India,15.5,0,82
+REV0828,2022-12-01,2022,12,Outstanding performance and very accurate caller ID Keep up the good work.,5,Positive,No,India,15.5,3,74
+REV0058,2022-12-02,2022,12,This app has made my phone experience so much better Best decision to download this.,5,Positive,No,USA,15.0,0,84
+REV0877,2022-12-03,2022,12,Great app for blocking unwanted calls and identifying callers Will definitely recommend to friends.,5,Positive,No,Nigeria,14.0,5,99
+REV0847,2022-12-05,2022,12,Too many ads and the premium version is very expensive Please fix this immediately.,1,Negative,No,India,13.5,0,83
+REV0123,2022-12-06,2022,12,Very buggy app with constant notifications that annoy me Needs major improvements.,1,Negative,No,Nigeria,14.5,5,82
+REV1000,2022-12-17,2022,12,"Best caller ID app I have ever used, works perfectly Keep up the good work.",5,Positive,No,Brazil,14.5,0,75
+REV0361,2022-12-17,2022,12,App keeps crashing frequently and drains battery fast Please fix this immediately.,2,Negative,Yes,Brazil,14.5,11,82
+REV0933,2022-12-18,2022,12,Great app for blocking unwanted calls and identifying callers Five stars from me.,5,Positive,No,India,14.5,3,81
+REV0867,2022-12-20,2022,12,"Keeps showing wrong names for contacts, very frustrating Uninstalling this app now.",1,Negative,Yes,India,14.5,12,83
+REV0846,2022-12-22,2022,12,App is very slow and takes too long to load caller info Needs major improvements.,2,Negative,No,India,15.5,2,81
+REV0113,2022-12-26,2022,12,Love how it instantly identifies unknown numbers Keep up the good work.,5,Positive,Yes,Indonesia,13.5,1,71
+REV0816,2023-01-01,2023,1,Fantastic app that works flawlessly without any issues Will definitely recommend to friends.,4,Positive,No,India,14.5,0,92
+REV0672,2023-01-01,2023,1,Fantastic app that works flawlessly without any issues Will definitely recommend to friends.,4,Positive,No,India,15.0,0,92
+REV0945,2023-01-02,2023,1,Too many ads and the premium version is very expensive Needs major improvements.,2,Negative,No,Brazil,13.5,4,80
+REV0857,2023-01-02,2023,1,Too much data collection and privacy invasion issues Not worth the download.,1,Negative,No,Indonesia,15.0,0,76
+REV0443,2023-01-03,2023,1,This app has made my phone experience so much better Great job developers.,4,Positive,Yes,India,15.5,5,74
+REV0513,2023-01-03,2023,1,Very helpful app for identifying unknown callers and blocking spam Best decision to download this.,4,Positive,Yes,Nigeria,15.5,0,98
+REV0688,2023-01-06,2023,1,Terrible customer support and no response to complaints Needs major improvements.,2,Negative,No,UK,15.0,8,81
+REV0595,2023-01-09,2023,1,Brilliant app for managing calls and blocking telemarketers Great job developers.,5,Positive,Yes,USA,15.5,5,81
+REV0441,2023-01-10,2023,1,Amazing app that saves time by filtering spam calls Five stars from me.,4,Positive,Yes,USA,13.0,1,71
+REV0992,2023-01-11,2023,1,Wonderful app with great user interface and smooth performance Keep up the good work.,4,Positive,No,Brazil,13.5,0,85
+REV0851,2023-01-11,2023,1,Wonderful app with great user interface and smooth performance Highly recommended!,5,Positive,No,India,14.5,0,82
+REV0098,2023-01-12,2023,1,"Excellent spam detection feature, highly recommended Keep up the good work.",5,Positive,Yes,India,13.5,0,75
+REV0396,2023-01-12,2023,1,"Does not work properly on my device, keeps showing errors Please fix this immediately.",2,Negative,No,India,15.0,0,86
+REV0327,2023-01-12,2023,1,App keeps crashing frequently and drains battery fast Very disappointed.,1,Negative,No,Brazil,13.5,1,72
+REV0318,2023-01-13,2023,1,The app has become useless after the latest update Uninstalling this app now.,1,Negative,Yes,India,15.5,1,77
+REV0642,2023-01-18,2023,1,Works sometimes but not consistent enough for daily use Hope to see updates soon.,3,Neutral,No,India,14.5,0,81
+REV0306,2023-01-20,2023,1,Decent app but there are better alternatives available Hope to see updates soon.,3,Neutral,No,UK,15.5,3,80
+REV0115,2023-01-23,2023,1,Decent app but there are better alternatives available Just okay for now.,3,Neutral,No,India,15.5,0,73
+REV0001,2023-01-24,2023,1,Fantastic app that works flawlessly without any issues Highly recommended!,5,Positive,Yes,USA,14.0,0,74
+REV0894,2023-01-27,2023,1,Okay for basic call identification but needs improvement Could be better.,3,Neutral,No,India,15.0,3,73
+REV0647,2023-01-28,2023,1,Outstanding performance and very accurate caller ID Great job developers.,5,Positive,Yes,India,15.0,3,73
+REV0835,2023-02-01,2023,2,Works sometimes but not consistent enough for daily use Hope to see updates soon.,3,Neutral,No,Brazil,14.0,1,81
+REV0052,2023-02-02,2023,2,Very helpful app for identifying unknown callers and blocking spam Five stars from me.,5,Positive,Yes,India,14.5,0,86
+REV0446,2023-02-02,2023,2,Number lookup is wrong most of the time very inaccurate Uninstalling this app now.,1,Negative,Yes,India,15.5,1,82
+REV0497,2023-02-03,2023,2,Privacy concerns as it uploads contacts without permission Not worth the download.,1,Negative,Yes,Indonesia,14.5,0,82
+REV0030,2023-02-05,2023,2,App keeps crashing frequently and drains battery fast Dev team should address this.,1,Negative,No,India,15.5,0,83
+REV0216,2023-02-06,2023,2,Amazing app that saves time by filtering spam calls Great job developers.,4,Positive,Yes,UK,15.5,0,73
+REV0486,2023-02-09,2023,2,Love how it instantly identifies unknown numbers Great job developers.,4,Positive,No,Indonesia,14.0,3,70
+REV0852,2023-02-09,2023,2,"Excellent spam detection feature, highly recommended Great job developers.",4,Positive,Yes,Indonesia,15.5,6,74
+REV0930,2023-02-11,2023,2,Very buggy app with constant notifications that annoy me Not worth the download.,1,Negative,Yes,Indonesia,15.5,1,80
+REV0973,2023-02-13,2023,2,"Does not work properly on my device, keeps showing errors Uninstalling this app now.",1,Negative,No,USA,15.5,1,84
+REV0378,2023-02-13,2023,2,"Mixed experience with this app, some features work well Just okay for now.",3,Neutral,Yes,USA,15.0,3,74
+REV0282,2023-02-15,2023,2,"Neutral opinion, app does what it promises nothing more Room for improvement.",3,Neutral,No,Brazil,14.0,2,77
+REV0604,2023-02-17,2023,2,Battery draining app that makes phone run hot all the time Dev team should address this.,1,Negative,No,India,14.0,6,88
+REV0840,2023-02-17,2023,2,"Best caller ID app I have ever used, works perfectly Keep up the good work.",5,Positive,No,Indonesia,15.0,7,75
+REV0013,2023-02-18,2023,2,"Best caller ID app I have ever used, works perfectly Will definitely recommend to friends.",5,Positive,Yes,UK,15.5,0,90
+REV0964,2023-02-21,2023,2,The app has become useless after the latest update Uninstalling this app now.,1,Negative,No,India,15.0,0,77
+REV0747,2023-02-22,2023,2,Great app for blocking unwanted calls and identifying callers Very satisfied with this app.,5,Positive,No,USA,14.0,1,91
+REV0265,2023-03-03,2023,3,"Mixed experience with this app, some features work well Not fully satisfied.",3,Neutral,No,India,14.5,3,76
+REV0537,2023-03-04,2023,3,Outstanding performance and very accurate caller ID Highly recommended!,4,Positive,No,UK,15.0,0,71
+REV0416,2023-03-07,2023,3,Great app for blocking unwanted calls and identifying callers Keep up the good work.,4,Positive,Yes,India,15.0,2,84
+REV0298,2023-03-09,2023,3,Wonderful app with great user interface and smooth performance Keep up the good work.,5,Positive,No,Nigeria,15.0,2,85
+REV0045,2023-03-09,2023,3,Acceptable performance but premium features are overpriced Might switch to another app.,4,Neutral,No,UK,14.5,1,87
+REV0568,2023-03-10,2023,3,"Mixed experience with this app, some features work well Just okay for now.",3,Neutral,Yes,Brazil,15.5,18,74
+REV0520,2023-03-11,2023,3,Great app for blocking unwanted calls and identifying callers Great job developers.,5,Positive,No,India,14.0,0,83
+REV0940,2023-03-11,2023,3,"Best caller ID app I have ever used, works perfectly Will definitely recommend to friends.",4,Positive,No,Brazil,13.0,0,90
+REV0313,2023-03-14,2023,3,Brilliant app for managing calls and blocking telemarketers Very satisfied with this app.,5,Positive,Yes,India,15.0,2,89
+REV0256,2023-03-15,2023,3,Fantastic app that works flawlessly without any issues Will definitely recommend to friends.,5,Positive,No,India,14.5,0,92
+REV0557,2023-03-17,2023,3,Average app with some good features and some bad ones Not fully satisfied.,4,Neutral,Yes,USA,15.5,2,74
+REV0262,2023-03-17,2023,3,"Does not work properly on my device, keeps showing errors Please fix this immediately.",1,Negative,No,India,15.0,0,86
+REV0037,2023-03-17,2023,3,Superb caller identification and spam protection features Best decision to download this.,5,Positive,Yes,Brazil,15.0,2,89
+REV0111,2023-03-19,2023,3,"Best caller ID app I have ever used, works perfectly Keep up the good work.",5,Positive,No,India,13.5,0,75
+REV0921,2023-03-19,2023,3,Terrible customer support and no response to complaints Not worth the download.,1,Negative,No,India,15.0,0,79
+REV0510,2023-03-19,2023,3,Spam calls still getting through despite having this app Needs major improvements.,2,Negative,Yes,India,13.5,9,82
+REV0292,2023-03-21,2023,3,Fantastic app that works flawlessly without any issues Very satisfied with this app.,4,Positive,Yes,India,15.0,0,84
+REV0511,2023-03-22,2023,3,Outstanding performance and very accurate caller ID Five stars from me.,4,Positive,No,USA,15.0,0,71
+REV0148,2023-03-23,2023,3,Love how it instantly identifies unknown numbers Very satisfied with this app.,4,Positive,Yes,India,15.0,0,78
+REV0489,2023-03-23,2023,3,Too many ads and the premium version is very expensive Zero stars if possible.,1,Negative,No,USA,13.5,2,78
+REV0423,2023-03-24,2023,3,Outstanding performance and very accurate caller ID Best decision to download this.,4,Positive,No,Brazil,15.0,0,83
+REV0616,2023-03-25,2023,3,Privacy concerns as it uploads contacts without permission Dev team should address this.,1,Negative,No,India,14.5,0,88
+REV0321,2023-03-26,2023,3,"Worst update ever, completely ruined the user experience Very disappointed.",1,Negative,No,India,15.5,0,75
+REV0785,2023-03-26,2023,3,Amazing app that saves time by filtering spam calls Great job developers.,5,Positive,Yes,India,15.5,3,73
+REV0252,2023-03-28,2023,3,Spam calls still getting through despite having this app Needs major improvements.,1,Negative,Yes,Brazil,15.5,3,82
+REV0439,2023-04-01,2023,4,"Best caller ID app I have ever used, works perfectly Keep up the good work.",5,Positive,Yes,UK,13.0,0,75
+REV0039,2023-04-05,2023,4,"Neutral opinion, app does what it promises nothing more Might switch to another app.",3,Neutral,No,India,15.0,2,84
+REV0753,2023-04-07,2023,4,Very helpful app for identifying unknown callers and blocking spam Very satisfied with this app.,5,Positive,Yes,India,15.0,6,96
+REV0004,2023-04-08,2023,4,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,4,Positive,Yes,India,14.0,1,86
+REV0772,2023-04-10,2023,4,Perfect solution for spam calls and unknown numbers Best decision to download this.,5,Positive,Yes,India,13.5,1,83
+REV0323,2023-04-11,2023,4,Battery draining app that makes phone run hot all the time Dev team should address this.,2,Negative,No,Brazil,14.0,5,88
+REV0721,2023-04-11,2023,4,"Does not work properly on my device, keeps showing errors Not worth the download.",2,Negative,No,India,15.5,9,81
+REV0534,2023-04-12,2023,4,Outstanding performance and very accurate caller ID Great job developers.,5,Positive,No,India,14.0,5,73
+REV0506,2023-04-12,2023,4,Great app for blocking unwanted calls and identifying callers Very satisfied with this app.,5,Positive,No,India,14.0,0,91
+REV0656,2023-04-12,2023,4,Acceptable performance but premium features are overpriced Just okay for now.,3,Neutral,Yes,India,14.5,2,77
+REV0652,2023-04-13,2023,4,Outstanding performance and very accurate caller ID Very satisfied with this app.,5,Positive,No,India,13.0,0,81
+REV0222,2023-04-14,2023,4,Fantastic app that works flawlessly without any issues Best decision to download this.,5,Positive,Yes,India,15.0,3,86
+REV0725,2023-04-15,2023,4,"Does not work properly on my device, keeps showing errors Needs major improvements.",1,Negative,No,USA,15.5,2,83
+REV0214,2023-04-21,2023,4,Brilliant app for managing calls and blocking telemarketers Highly recommended!,5,Positive,Yes,UK,15.0,0,79
+REV0134,2023-04-23,2023,4,The app has become useless after the latest update Not worth the download.,2,Negative,No,India,15.0,2,74
+REV0550,2023-04-24,2023,4,Regular updates but the core functionality stays the same Might switch to another app.,3,Neutral,Yes,India,14.5,4,86
+REV0625,2023-04-24,2023,4,Amazing app that saves time by filtering spam calls Keep up the good work.,4,Positive,Yes,India,14.5,6,74
+REV0189,2023-04-24,2023,4,Truecaller is a must-have app for every smartphone user Highly recommended!,4,Positive,No,India,13.5,0,75
+REV0895,2023-04-27,2023,4,Truecaller is a must-have app for every smartphone user Five stars from me.,5,Positive,No,India,15.5,0,75
+REV0016,2023-04-28,2023,4,"Best caller ID app I have ever used, works perfectly Best decision to download this.",5,Positive,Yes,USA,15.5,2,84
+REV0286,2023-05-01,2023,5,"Excellent spam detection feature, highly recommended Very satisfied with this app.",4,Positive,Yes,India,13.5,15,82
+REV0369,2023-05-02,2023,5,Superb caller identification and spam protection features Very satisfied with this app.,5,Positive,Yes,Brazil,13.0,9,87
+REV0218,2023-05-02,2023,5,Outstanding performance and very accurate caller ID Will definitely recommend to friends.,5,Positive,Yes,Nigeria,15.0,4,89
+REV0434,2023-05-03,2023,5,"Really useful app, cannot imagine using phone without it Highly recommended!",4,Positive,No,India,15.0,1,76
+REV0875,2023-05-03,2023,5,Privacy concerns as it uploads contacts without permission Needs major improvements.,1,Negative,Yes,Nigeria,14.5,1,84
+REV0597,2023-05-06,2023,5,"Best caller ID app I have ever used, works perfectly Will definitely recommend to friends.",5,Positive,No,India,14.5,5,90
+REV0196,2023-05-09,2023,5,"Does not work properly on my device, keeps showing errors Uninstalling this app now.",2,Negative,Yes,India,15.0,2,84
+REV0471,2023-05-11,2023,5,Works sometimes but not consistent enough for daily use Might switch to another app.,3,Neutral,Yes,India,14.5,5,84
+REV0295,2023-05-11,2023,5,Amazing app that saves time by filtering spam calls Highly recommended!,5,Positive,Yes,India,14.5,1,71
+REV0865,2023-05-11,2023,5,Battery draining app that makes phone run hot all the time Uninstalling this app now.,2,Negative,Yes,India,15.5,0,85
+REV0146,2023-05-11,2023,5,"Excellent spam detection feature, highly recommended Five stars from me.",4,Positive,Yes,India,13.0,0,72
+REV0188,2023-05-18,2023,5,Regular updates but the core functionality stays the same Not fully satisfied.,4,Neutral,Yes,USA,13.5,1,78
+REV0571,2023-05-18,2023,5,Battery draining app that makes phone run hot all the time Not worth the download.,2,Negative,No,India,15.5,2,82
+REV0583,2023-05-19,2023,5,Average app with some good features and some bad ones Could be better.,4,Neutral,No,India,15.5,6,70
+REV0084,2023-05-20,2023,5,"Neutral opinion, app does what it promises nothing more Not fully satisfied.",4,Neutral,No,India,14.5,5,76
+REV0281,2023-05-22,2023,5,Perfect solution for spam calls and unknown numbers Will definitely recommend to friends.,5,Positive,Yes,Brazil,13.5,5,89
+REV0812,2023-05-24,2023,5,Love how it instantly identifies unknown numbers Very satisfied with this app.,4,Positive,No,Brazil,14.5,0,78
+REV0720,2023-05-24,2023,5,"Mixed experience with this app, some features work well Just okay for now.",3,Neutral,No,India,14.5,2,74
+REV0662,2023-05-25,2023,5,Fantastic app that works flawlessly without any issues Keep up the good work.,4,Positive,No,India,15.5,2,77
+REV0067,2023-05-26,2023,5,Average app with some good features and some bad ones Hope to see updates soon.,3,Neutral,No,Brazil,13.5,6,79
+REV0986,2023-05-28,2023,5,"Best caller ID app I have ever used, works perfectly Best decision to download this.",5,Positive,No,India,15.0,0,84
+REV0328,2023-06-01,2023,6,Number lookup is wrong most of the time very inaccurate Not worth the download.,1,Negative,Yes,USA,14.0,1,79
+REV0768,2023-06-01,2023,6,Regular updates but the core functionality stays the same Could be better.,3,Neutral,No,Nigeria,15.5,0,74
+REV0197,2023-06-04,2023,6,Too much data collection and privacy invasion issues Very disappointed.,1,Negative,No,India,15.5,1,71
+REV0362,2023-06-06,2023,6,Very buggy app with constant notifications that annoy me Zero stars if possible.,1,Negative,No,India,15.0,0,80
+REV0526,2023-06-07,2023,6,Terrible customer support and no response to complaints Needs major improvements.,1,Negative,No,India,14.5,3,81
+REV0866,2023-06-07,2023,6,This app has made my phone experience so much better Highly recommended!,5,Positive,Yes,Nigeria,14.0,4,72
+REV0466,2023-06-09,2023,6,Battery draining app that makes phone run hot all the time Needs major improvements.,2,Negative,Yes,India,14.5,2,84
+REV0713,2023-06-09,2023,6,Perfect solution for spam calls and unknown numbers Highly recommended!,5,Positive,Yes,USA,14.5,1,71
+REV0649,2023-06-10,2023,6,Number lookup is wrong most of the time very inaccurate Dev team should address this.,1,Negative,No,India,15.0,1,85
+REV0692,2023-06-13,2023,6,Fantastic app that works flawlessly without any issues Great job developers.,5,Positive,No,Brazil,13.5,0,76
+REV0048,2023-06-15,2023,6,Fantastic app that works flawlessly without any issues Very satisfied with this app.,4,Positive,No,India,14.5,2,84
+REV0149,2023-06-18,2023,6,Love how it instantly identifies unknown numbers Will definitely recommend to friends.,4,Positive,No,Nigeria,15.5,1,86
+REV0241,2023-06-20,2023,6,Decent app but there are better alternatives available Might switch to another app.,3,Neutral,No,India,15.5,0,83
+REV0805,2023-06-22,2023,6,"Really useful app, cannot imagine using phone without it Will definitely recommend to friends.",4,Positive,No,India,14.5,2,94
+REV0763,2023-06-23,2023,6,"Best caller ID app I have ever used, works perfectly Five stars from me.",5,Positive,Yes,India,14.5,0,72
+REV0614,2023-06-23,2023,6,App keeps crashing frequently and drains battery fast Zero stars if possible.,1,Negative,Yes,India,15.5,0,77
+REV0703,2023-06-25,2023,6,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",4,Positive,Yes,Brazil,13.0,2,90
+REV0353,2023-06-28,2023,6,"Really useful app, cannot imagine using phone without it Highly recommended!",5,Positive,No,India,14.5,2,76
+REV0349,2023-06-28,2023,6,Too many ads and the premium version is very expensive Zero stars if possible.,1,Negative,No,Indonesia,14.0,2,78
+REV0707,2023-06-28,2023,6,Outstanding performance and very accurate caller ID Best decision to download this.,5,Positive,No,India,15.0,1,83
+REV0450,2023-07-01,2023,7,Works sometimes but not consistent enough for daily use Just okay for now.,3,Neutral,No,India,15.5,4,74
+REV0690,2023-07-03,2023,7,Battery draining app that makes phone run hot all the time Needs major improvements.,1,Negative,Yes,India,15.0,2,84
+REV0947,2023-07-04,2023,7,"Worst update ever, completely ruined the user experience Not worth the download.",1,Negative,No,India,14.0,2,80
+REV0984,2023-07-05,2023,7,"Mixed experience with this app, some features work well Could be better.",3,Neutral,Yes,India,13.5,1,72
+REV0978,2023-07-07,2023,7,"Best caller ID app I have ever used, works perfectly Very satisfied with this app.",5,Positive,No,India,15.0,0,82
+REV0990,2023-07-11,2023,7,Love how it instantly identifies unknown numbers Highly recommended!,5,Positive,No,India,14.0,0,68
+REV0162,2023-07-11,2023,7,App keeps crashing frequently and drains battery fast Uninstalling this app now.,1,Negative,Yes,India,15.0,8,80
+REV0825,2023-07-12,2023,7,Terrible customer support and no response to complaints Needs major improvements.,2,Negative,No,UK,15.5,5,81
+REV0260,2023-07-13,2023,7,This app has made my phone experience so much better Very satisfied with this app.,4,Positive,No,India,15.5,6,82
+REV0946,2023-07-16,2023,7,"Mixed experience with this app, some features work well Room for improvement.",3,Neutral,No,India,15.5,0,77
+REV0519,2023-07-16,2023,7,Privacy concerns as it uploads contacts without permission Zero stars if possible.,2,Negative,No,India,15.0,0,82
+REV0837,2023-07-17,2023,7,Wonderful app with great user interface and smooth performance Highly recommended!,5,Positive,Yes,Nigeria,15.0,1,82
+REV0373,2023-07-18,2023,7,Works sometimes but not consistent enough for daily use Room for improvement.,4,Neutral,No,USA,15.5,0,77
+REV0094,2023-07-18,2023,7,Spam calls still getting through despite having this app Needs major improvements.,2,Negative,Yes,India,13.5,0,82
+REV0159,2023-07-19,2023,7,"Neutral opinion, app does what it promises nothing more Could be better.",3,Neutral,No,USA,14.0,7,72
+REV0285,2023-07-19,2023,7,"Best caller ID app I have ever used, works perfectly Five stars from me.",4,Positive,No,India,15.0,3,72
+REV0576,2023-07-21,2023,7,Superb caller identification and spam protection features Five stars from me.,5,Positive,Yes,India,15.5,0,77
+REV0953,2023-07-21,2023,7,Brilliant app for managing calls and blocking telemarketers Highly recommended!,5,Positive,Yes,India,14.0,1,79
+REV0228,2023-07-24,2023,7,Terrible customer support and no response to complaints Please fix this immediately.,2,Negative,Yes,India,15.0,7,84
+REV0153,2023-07-28,2023,7,App is very slow and takes too long to load caller info Dev team should address this.,1,Negative,No,India,14.0,8,85
+REV0380,2023-07-28,2023,7,Not bad but definitely not the best caller ID app out there Could be better.,3,Neutral,Yes,India,15.0,0,76
+REV0495,2023-08-01,2023,8,Works sometimes but not consistent enough for daily use Room for improvement.,4,Neutral,No,USA,15.5,2,77
+REV0906,2023-08-02,2023,8,"Disappointed with quality, expected much better performance Not worth the download.",1,Negative,Yes,India,15.0,4,83
+REV0300,2023-08-03,2023,8,Perfect solution for spam calls and unknown numbers Highly recommended!,4,Positive,Yes,India,13.5,0,71
+REV0376,2023-08-03,2023,8,Love how it instantly identifies unknown numbers Highly recommended!,5,Positive,No,Brazil,15.5,2,68
+REV0310,2023-08-04,2023,8,Average app with some good features and some bad ones Just okay for now.,3,Neutral,Yes,India,15.5,3,72
+REV0247,2023-08-04,2023,8,Battery draining app that makes phone run hot all the time Please fix this immediately.,2,Negative,No,India,15.5,0,87
+REV0055,2023-08-08,2023,8,Regular updates but the core functionality stays the same Might switch to another app.,4,Neutral,No,USA,14.5,0,86
+REV0250,2023-08-08,2023,8,Battery draining app that makes phone run hot all the time Zero stars if possible.,2,Negative,No,India,14.5,5,82
+REV0803,2023-08-09,2023,8,"Really useful app, cannot imagine using phone without it Five stars from me.",5,Positive,Yes,Indonesia,15.5,5,76
+REV0212,2023-08-10,2023,8,Love how it instantly identifies unknown numbers Will definitely recommend to friends.,5,Positive,No,India,15.0,5,86
+REV0884,2023-08-11,2023,8,Amazing app that saves time by filtering spam calls Will definitely recommend to friends.,4,Positive,Yes,India,15.5,6,89
+REV0822,2023-08-12,2023,8,Fantastic app that works flawlessly without any issues Five stars from me.,4,Positive,No,Nigeria,14.5,1,74
+REV0831,2023-08-13,2023,8,Average app with some good features and some bad ones Room for improvement.,3,Neutral,Yes,Brazil,15.0,0,75
+REV0655,2023-08-15,2023,8,Not bad but definitely not the best caller ID app out there Might switch to another app.,3,Neutral,Yes,USA,15.0,0,88
+REV0752,2023-08-19,2023,8,Terrible customer support and no response to complaints Very disappointed.,1,Negative,No,Indonesia,14.0,1,74
+REV0314,2023-08-20,2023,8,Fantastic app that works flawlessly without any issues Highly recommended!,5,Positive,No,Nigeria,15.0,4,74
+REV0393,2023-08-21,2023,8,Too many ads and the premium version is very expensive Zero stars if possible.,2,Negative,Yes,India,15.5,0,78
+REV0577,2023-08-21,2023,8,Wonderful app with great user interface and smooth performance Will definitely recommend to friends.,5,Positive,Yes,USA,14.0,0,100
+REV0217,2023-08-23,2023,8,Very helpful app for identifying unknown callers and blocking spam Will definitely recommend to friends.,4,Positive,Yes,UK,13.0,8,104
+REV0898,2023-08-26,2023,8,Truecaller is a must-have app for every smartphone user Very satisfied with this app.,4,Positive,Yes,India,14.5,10,85
+REV0496,2023-08-26,2023,8,Outstanding performance and very accurate caller ID Keep up the good work.,4,Positive,No,UK,14.5,0,74
+REV0165,2023-09-02,2023,9,App keeps crashing frequently and drains battery fast Needs major improvements.,1,Negative,No,India,14.0,5,79
+REV0775,2023-09-04,2023,9,"Does not work properly on my device, keeps showing errors Not worth the download.",2,Negative,No,India,15.5,0,81
+REV0643,2023-09-05,2023,9,Very buggy app with constant notifications that annoy me Not worth the download.,2,Negative,No,India,14.5,2,80
+REV0322,2023-09-07,2023,9,Too many ads and the premium version is very expensive Dev team should address this.,1,Negative,No,India,15.0,2,84
+REV0050,2023-09-08,2023,9,Very helpful app for identifying unknown callers and blocking spam Great job developers.,5,Positive,Yes,India,15.0,0,88
+REV0508,2023-09-09,2023,9,Truecaller is a must-have app for every smartphone user Very satisfied with this app.,5,Positive,Yes,UK,14.5,1,85
+REV0203,2023-09-10,2023,9,Very helpful app for identifying unknown callers and blocking spam Highly recommended!,5,Positive,Yes,India,13.5,3,86
+REV0458,2023-09-11,2023,9,Very helpful app for identifying unknown callers and blocking spam Keep up the good work.,4,Positive,Yes,Brazil,15.0,0,89
+REV0971,2023-09-14,2023,9,Battery draining app that makes phone run hot all the time Zero stars if possible.,1,Negative,No,UK,14.0,1,82
+REV0876,2023-09-14,2023,9,Truecaller is a must-have app for every smartphone user Best decision to download this.,5,Positive,No,India,15.5,1,87
+REV0609,2023-09-15,2023,9,"Does not work properly on my device, keeps showing errors Please fix this immediately.",2,Negative,No,India,15.5,0,86
+REV0029,2023-09-16,2023,9,Truecaller is a must-have app for every smartphone user Five stars from me.,5,Positive,Yes,India,15.0,0,75
+REV0144,2023-09-16,2023,9,The app has become useless after the latest update Uninstalling this app now.,1,Negative,No,India,15.0,1,77
+REV0821,2023-09-19,2023,9,Works sometimes but not consistent enough for daily use Could be better.,4,Neutral,Yes,Nigeria,13.0,0,72
+REV0551,2023-09-21,2023,9,This app has made my phone experience so much better Five stars from me.,5,Positive,No,India,14.0,1,72
+REV0034,2023-09-25,2023,9,Okay for basic call identification but needs improvement Not fully satisfied.,4,Neutral,Yes,India,14.0,6,77
+REV0044,2023-09-25,2023,9,Too many ads and the premium version is very expensive Dev team should address this.,1,Negative,Yes,Indonesia,13.5,2,84
+REV0503,2023-09-28,2023,9,Amazing app that saves time by filtering spam calls Will definitely recommend to friends.,5,Positive,Yes,India,15.0,1,89
+REV0731,2023-09-28,2023,9,Love how it instantly identifies unknown numbers Great job developers.,4,Positive,No,USA,15.5,2,70
+REV0832,2023-10-03,2023,10,"Does not work properly on my device, keeps showing errors Needs major improvements.",2,Negative,No,Brazil,15.5,2,83
+REV0883,2023-10-04,2023,10,Truecaller is a must-have app for every smartphone user Five stars from me.,4,Positive,Yes,India,14.5,2,75
+REV0755,2023-10-04,2023,10,"Keeps showing wrong names for contacts, very frustrating Please fix this immediately.",1,Negative,No,Nigeria,15.0,0,85
+REV0502,2023-10-06,2023,10,"Neutral opinion, app does what it promises nothing more Not fully satisfied.",3,Neutral,No,India,15.0,1,76
+REV0760,2023-10-06,2023,10,"Really useful app, cannot imagine using phone without it Will definitely recommend to friends.",5,Positive,No,UK,15.5,17,94
+REV0739,2023-10-08,2023,10,Outstanding performance and very accurate caller ID Very satisfied with this app.,5,Positive,No,India,14.5,7,81
+REV0939,2023-10-08,2023,10,Wonderful app with great user interface and smooth performance Best decision to download this.,4,Positive,No,USA,14.0,0,94
+REV0514,2023-10-09,2023,10,Very helpful app for identifying unknown callers and blocking spam Very satisfied with this app.,5,Positive,Yes,Nigeria,14.0,2,96
+REV0007,2023-10-09,2023,10,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,4,Positive,No,India,13.5,2,93
+REV0209,2023-10-10,2023,10,Works sometimes but not consistent enough for daily use Room for improvement.,3,Neutral,Yes,India,13.5,0,77
+REV0699,2023-10-10,2023,10,Very buggy app with constant notifications that annoy me Please fix this immediately.,2,Negative,No,Nigeria,14.5,3,85
+REV0119,2023-10-11,2023,10,Wonderful app with great user interface and smooth performance Keep up the good work.,5,Positive,No,USA,14.5,1,85
+REV0529,2023-10-12,2023,10,Number lookup is wrong most of the time very inaccurate Very disappointed.,1,Negative,Yes,India,14.0,0,74
+REV0937,2023-10-13,2023,10,Average app with some good features and some bad ones Not fully satisfied.,3,Neutral,No,India,13.5,7,74
+REV0716,2023-10-13,2023,10,Love how it instantly identifies unknown numbers Keep up the good work.,4,Positive,No,Nigeria,14.5,1,71
+REV0475,2023-10-14,2023,10,"Disappointed with quality, expected much better performance Uninstalling this app now.",1,Negative,Yes,India,15.0,1,86
+REV0366,2023-10-15,2023,10,Love how it instantly identifies unknown numbers Will definitely recommend to friends.,5,Positive,No,USA,13.5,1,86
+REV0126,2023-10-20,2023,10,Love how it instantly identifies unknown numbers Best decision to download this.,5,Positive,No,India,13.5,4,80
+REV0355,2023-10-20,2023,10,"Mixed experience with this app, some features work well Might switch to another app.",3,Neutral,No,India,15.5,1,84
+REV0952,2023-10-20,2023,10,Okay for basic call identification but needs improvement Just okay for now.,3,Neutral,No,Nigeria,14.0,10,75
+REV0208,2023-10-21,2023,10,"Does not work properly on my device, keeps showing errors Please fix this immediately.",2,Negative,No,USA,13.5,0,86
+REV0356,2023-10-22,2023,10,Superb caller identification and spam protection features Highly recommended!,4,Positive,Yes,India,15.0,6,77
+REV0025,2023-10-23,2023,10,"Best caller ID app I have ever used, works perfectly Five stars from me.",4,Positive,Yes,India,13.5,0,72
+REV0411,2023-10-23,2023,10,"Mixed experience with this app, some features work well Room for improvement.",4,Neutral,No,USA,15.0,0,77
+REV0100,2023-10-24,2023,10,"Neutral opinion, app does what it promises nothing more Hope to see updates soon.",3,Neutral,Yes,India,14.0,0,81
+REV0530,2023-10-27,2023,10,"Excellent spam detection feature, highly recommended Will definitely recommend to friends.",4,Positive,Yes,Nigeria,15.5,3,90
+REV0917,2023-10-28,2023,10,"Keeps showing wrong names for contacts, very frustrating Very disappointed.",2,Negative,No,USA,15.0,0,75
+REV0666,2023-11-02,2023,11,Wonderful app with great user interface and smooth performance Great job developers.,4,Positive,No,India,14.5,1,84
+REV0261,2023-11-05,2023,11,Perfect solution for spam calls and unknown numbers Best decision to download this.,4,Positive,Yes,India,15.5,1,83
+REV0608,2023-11-07,2023,11,This app has made my phone experience so much better Highly recommended!,5,Positive,No,India,14.5,1,72
+REV0015,2023-11-08,2023,11,"Best caller ID app I have ever used, works perfectly Highly recommended!",5,Positive,No,USA,15.5,1,72
+REV0271,2023-11-10,2023,11,Truecaller is a must-have app for every smartphone user Very satisfied with this app.,4,Positive,No,Indonesia,14.0,3,85
+REV0392,2023-11-11,2023,11,"Worst update ever, completely ruined the user experience Dev team should address this.",1,Negative,Yes,India,15.0,7,86
+REV0736,2023-11-13,2023,11,Fantastic app that works flawlessly without any issues Very satisfied with this app.,4,Positive,No,USA,14.5,2,84
+REV0727,2023-11-16,2023,11,Perfect solution for spam calls and unknown numbers Will definitely recommend to friends.,5,Positive,Yes,India,13.5,2,89
+REV0333,2023-11-17,2023,11,"Keeps showing wrong names for contacts, very frustrating Dev team should address this.",1,Negative,Yes,USA,15.5,0,86
+REV0573,2023-11-17,2023,11,Number lookup is wrong most of the time very inaccurate Please fix this immediately.,1,Negative,Yes,India,14.0,2,84
+REV0193,2023-11-19,2023,11,Number lookup is wrong most of the time very inaccurate Uninstalling this app now.,2,Negative,No,Brazil,14.0,6,82
+REV0671,2023-11-20,2023,11,Outstanding performance and very accurate caller ID Very satisfied with this app.,4,Positive,No,Brazil,15.0,5,81
+REV0561,2023-11-21,2023,11,Battery draining app that makes phone run hot all the time Needs major improvements.,1,Negative,No,India,15.5,3,84
+REV0960,2023-11-21,2023,11,Okay for basic call identification but needs improvement Just okay for now.,3,Neutral,No,India,14.5,1,75
+REV0368,2023-11-22,2023,11,"Best caller ID app I have ever used, works perfectly Keep up the good work.",4,Positive,No,Nigeria,14.0,5,75
+REV0424,2023-11-24,2023,11,Very buggy app with constant notifications that annoy me Uninstalling this app now.,2,Negative,Yes,Brazil,15.5,2,83
+REV0560,2023-11-25,2023,11,Superb caller identification and spam protection features Keep up the good work.,4,Positive,Yes,India,15.5,3,80
+REV0291,2023-11-25,2023,11,Terrible customer support and no response to complaints Uninstalling this app now.,2,Negative,No,India,14.5,1,82
+REV0681,2023-11-25,2023,11,The app has become useless after the latest update Dev team should address this.,1,Negative,Yes,UK,14.0,0,80
+REV0684,2023-11-26,2023,11,"Really useful app, cannot imagine using phone without it Will definitely recommend to friends.",4,Positive,Yes,India,15.0,0,94
+REV0806,2023-11-26,2023,11,App keeps crashing frequently and drains battery fast Please fix this immediately.,2,Negative,No,India,15.0,0,82
+REV0374,2023-11-26,2023,11,Superb caller identification and spam protection features Great job developers.,4,Positive,Yes,India,15.0,16,79
+REV0490,2023-11-28,2023,11,Too many ads and the premium version is very expensive Dev team should address this.,1,Negative,No,USA,15.5,0,84
+REV0326,2023-11-28,2023,11,Amazing app that saves time by filtering spam calls Highly recommended!,4,Positive,Yes,UK,15.5,8,71
+REV0288,2023-12-02,2023,12,"Really useful app, cannot imagine using phone without it Very satisfied with this app.",4,Positive,No,India,15.0,17,86
+REV0916,2023-12-02,2023,12,"Excellent spam detection feature, highly recommended Great job developers.",5,Positive,Yes,India,14.5,1,74
+REV0350,2023-12-02,2023,12,Perfect solution for spam calls and unknown numbers Will definitely recommend to friends.,5,Positive,Yes,USA,15.5,1,89
+REV0951,2023-12-03,2023,12,Love how it instantly identifies unknown numbers Five stars from me.,5,Positive,No,India,15.5,0,68
+REV0002,2023-12-04,2023,12,Truecaller is a must-have app for every smartphone user Five stars from me.,5,Positive,No,UK,13.0,10,75
+REV0613,2023-12-07,2023,12,Battery draining app that makes phone run hot all the time Please fix this immediately.,1,Negative,No,India,14.0,1,87
+REV0047,2023-12-10,2023,12,Too much data collection and privacy invasion issues Very disappointed.,2,Negative,No,Brazil,15.5,1,71
+REV0191,2023-12-16,2023,12,"Does not work properly on my device, keeps showing errors Needs major improvements.",1,Negative,No,USA,14.0,6,83
+REV0956,2023-12-18,2023,12,Number lookup is wrong most of the time very inaccurate Zero stars if possible.,1,Negative,No,India,15.0,3,79
+REV0546,2023-12-19,2023,12,Superb caller identification and spam protection features Will definitely recommend to friends.,4,Positive,Yes,India,15.5,5,95
+REV0942,2023-12-22,2023,12,"Best caller ID app I have ever used, works perfectly Best decision to download this.",5,Positive,No,USA,15.0,3,84
+REV0036,2023-12-24,2023,12,This app has made my phone experience so much better Highly recommended!,5,Positive,Yes,India,15.0,0,72
+REV0461,2023-12-25,2023,12,Amazing app that saves time by filtering spam calls Highly recommended!,4,Positive,Yes,India,13.5,9,71
+REV0580,2024-01-06,2024,1,Too much data collection and privacy invasion issues Needs major improvements.,2,Negative,No,India,14.5,1,78
+REV0242,2024-01-07,2024,1,The app has become useless after the latest update Zero stars if possible.,2,Negative,Yes,UK,14.5,2,74
+REV0961,2024-01-07,2024,1,Number lookup is wrong most of the time very inaccurate Please fix this immediately.,2,Negative,Yes,India,15.5,4,84
+REV0023,2024-01-08,2024,1,Great app for blocking unwanted calls and identifying callers Best decision to download this.,5,Positive,No,India,15.0,3,93
+REV0844,2024-01-08,2024,1,Battery draining app that makes phone run hot all the time Very disappointed.,1,Negative,Yes,Nigeria,15.0,1,77
+REV0966,2024-01-09,2024,1,Amazing app that saves time by filtering spam calls Will definitely recommend to friends.,5,Positive,Yes,Nigeria,15.0,4,89
+REV0293,2024-01-10,2024,1,Fantastic app that works flawlessly without any issues Very satisfied with this app.,4,Positive,No,Brazil,15.5,2,84
+REV0912,2024-01-11,2024,1,App is very slow and takes too long to load caller info Very disappointed.,2,Negative,No,India,15.0,1,74
+REV0637,2024-01-12,2024,1,Superb caller identification and spam protection features Will definitely recommend to friends.,5,Positive,Yes,India,14.5,1,95
+REV0437,2024-01-14,2024,1,Wonderful app with great user interface and smooth performance Keep up the good work.,4,Positive,Yes,India,15.5,6,85
+REV0674,2024-01-17,2024,1,Spam calls still getting through despite having this app Uninstalling this app now.,1,Negative,Yes,India,14.5,2,83
+REV0347,2024-01-19,2024,1,Amazing app that saves time by filtering spam calls Great job developers.,5,Positive,Yes,Brazil,13.0,0,73
+REV0406,2024-01-26,2024,1,The app has become useless after the latest update Not worth the download.,2,Negative,No,India,15.5,1,74
+REV0897,2024-02-01,2024,2,App is very slow and takes too long to load caller info Dev team should address this.,1,Negative,No,India,14.0,2,85
+REV0980,2024-02-03,2024,2,Brilliant app for managing calls and blocking telemarketers Best decision to download this.,4,Positive,Yes,USA,14.5,2,91
+REV0715,2024-02-05,2024,2,Number lookup is wrong most of the time very inaccurate Zero stars if possible.,1,Negative,Yes,USA,14.5,4,79
+REV0479,2024-02-08,2024,2,Very helpful app for identifying unknown callers and blocking spam Five stars from me.,5,Positive,Yes,Indonesia,15.5,1,86
+REV0246,2024-02-08,2024,2,Spam calls still getting through despite having this app Zero stars if possible.,2,Negative,Yes,India,14.5,3,80
+REV0229,2024-02-08,2024,2,"Excellent spam detection feature, highly recommended Highly recommended!",4,Positive,Yes,India,15.5,2,72
+REV0365,2024-02-09,2024,2,App keeps crashing frequently and drains battery fast Needs major improvements.,2,Negative,No,Brazil,15.5,3,79
+REV0343,2024-02-11,2024,2,Love how it instantly identifies unknown numbers Very satisfied with this app.,5,Positive,No,USA,14.5,1,78
+REV0336,2024-02-11,2024,2,This app has made my phone experience so much better Highly recommended!,4,Positive,No,India,15.0,1,72
+REV0114,2024-02-13,2024,2,Regular updates but the core functionality stays the same Might switch to another app.,4,Neutral,No,India,14.0,3,86
+REV0676,2024-02-17,2024,2,Works sometimes but not consistent enough for daily use Could be better.,3,Neutral,Yes,USA,15.5,0,72
+REV0053,2024-02-17,2024,2,"Really useful app, cannot imagine using phone without it Keep up the good work.",5,Positive,Yes,UK,14.5,0,79
+REV0171,2024-02-25,2024,2,Too much data collection and privacy invasion issues Needs major improvements.,1,Negative,No,Indonesia,15.5,1,78
+REV0801,2024-02-26,2024,2,Brilliant app for managing calls and blocking telemarketers Keep up the good work.,4,Positive,Yes,India,15.5,2,82
+REV0207,2024-02-27,2024,2,App is fine but could use more features and better UI Hope to see updates soon.,3,Neutral,Yes,India,15.5,4,79
+REV0928,2024-02-28,2024,2,Wonderful app with great user interface and smooth performance Five stars from me.,4,Positive,No,India,15.0,3,82
+REV0869,2024-03-01,2024,3,"Neutral opinion, app does what it promises nothing more Room for improvement.",3,Neutral,No,India,14.5,4,77
+REV0710,2024-03-05,2024,3,Fantastic app that works flawlessly without any issues Will definitely recommend to friends.,5,Positive,Yes,India,14.5,1,92
+REV0976,2024-03-06,2024,3,Perfect solution for spam calls and unknown numbers Will definitely recommend to friends.,5,Positive,Yes,Nigeria,14.5,4,89
+REV0505,2024-03-06,2024,3,Amazing app that saves time by filtering spam calls Keep up the good work.,5,Positive,Yes,USA,15.0,3,74
+REV0296,2024-03-07,2024,3,Brilliant app for managing calls and blocking telemarketers Will definitely recommend to friends.,5,Positive,Yes,Indonesia,15.5,1,97
+REV0223,2024-03-09,2024,3,Truecaller is a must-have app for every smartphone user Very satisfied with this app.,5,Positive,No,USA,14.0,3,85
+REV0245,2024-03-10,2024,3,Decent app but there are better alternatives available Not fully satisfied.,3,Neutral,No,India,15.5,4,75
+REV0232,2024-03-16,2024,3,App keeps crashing frequently and drains battery fast Dev team should address this.,1,Negative,No,India,14.0,0,83
+REV0936,2024-03-24,2024,3,"Excellent spam detection feature, highly recommended Five stars from me.",5,Positive,Yes,India,14.5,5,72
+REV0430,2024-03-27,2024,3,Superb caller identification and spam protection features Will definitely recommend to friends.,5,Positive,Yes,USA,14.5,3,95
+REV0525,2024-03-27,2024,3,Love how it instantly identifies unknown numbers Five stars from me.,5,Positive,Yes,USA,15.5,1,68
+REV0168,2024-04-05,2024,4,Regular updates but the core functionality stays the same Room for improvement.,4,Neutral,No,USA,15.0,5,79
+REV0135,2024-04-05,2024,4,This app has made my phone experience so much better Will definitely recommend to friends.,5,Positive,No,Nigeria,14.5,0,90
+REV0167,2024-04-07,2024,4,Average app with some good features and some bad ones Could be better.,3,Neutral,No,India,14.0,2,70
+REV0417,2024-04-08,2024,4,"Keeps showing wrong names for contacts, very frustrating Zero stars if possible.",2,Negative,No,India,15.5,4,80
+REV0624,2024-04-08,2024,4,Very buggy app with constant notifications that annoy me Dev team should address this.,1,Negative,No,Brazil,15.5,0,86
+REV0284,2024-04-13,2024,4,Acceptable performance but premium features are overpriced Just okay for now.,3,Neutral,No,India,14.5,2,77
+REV0046,2024-04-18,2024,4,Terrible customer support and no response to complaints Zero stars if possible.,2,Negative,No,Nigeria,15.0,2,79
+REV0075,2024-04-19,2024,4,Too many ads and the premium version is very expensive Not worth the download.,2,Negative,No,Brazil,14.5,0,78
+REV0089,2024-04-22,2024,4,Brilliant app for managing calls and blocking telemarketers Keep up the good work.,5,Positive,Yes,Indonesia,15.5,2,82
+REV0190,2024-04-23,2024,4,Spam calls still getting through despite having this app Dev team should address this.,1,Negative,Yes,India,14.5,2,86
+REV0258,2024-04-23,2024,4,"Does not work properly on my device, keeps showing errors Uninstalling this app now.",1,Negative,Yes,India,15.5,2,84
+REV0651,2024-04-23,2024,4,Perfect solution for spam calls and unknown numbers Will definitely recommend to friends.,5,Positive,Yes,India,15.5,1,89
+REV0793,2024-04-25,2024,4,"Worst update ever, completely ruined the user experience Dev team should address this.",1,Negative,No,Nigeria,13.0,4,86
+REV0586,2024-04-26,2024,4,This app has made my phone experience so much better Keep up the good work.,4,Positive,Yes,Brazil,15.5,8,75
+REV0621,2024-04-27,2024,4,Amazing app that saves time by filtering spam calls Very satisfied with this app.,5,Positive,Yes,India,14.5,7,81
+REV0087,2024-05-04,2024,5,Wonderful app with great user interface and smooth performance Five stars from me.,5,Positive,No,India,15.0,1,82
+REV0200,2024-05-04,2024,5,Superb caller identification and spam protection features Great job developers.,5,Positive,Yes,Indonesia,15.0,0,79
+REV0009,2024-05-05,2024,5,Love how it instantly identifies unknown numbers Keep up the good work.,4,Positive,Yes,Brazil,15.5,6,71
+REV0093,2024-05-06,2024,5,Privacy concerns as it uploads contacts without permission Needs major improvements.,1,Negative,No,India,13.5,0,84
+REV0042,2024-05-08,2024,5,Great app for blocking unwanted calls and identifying callers Best decision to download this.,5,Positive,Yes,Nigeria,14.0,1,93
+REV0967,2024-05-08,2024,5,This app has made my phone experience so much better Will definitely recommend to friends.,5,Positive,No,India,14.0,0,90
+REV0192,2024-05-08,2024,5,App keeps crashing frequently and drains battery fast Please fix this immediately.,2,Negative,No,Nigeria,15.0,5,82
+REV0088,2024-05-10,2024,5,"Neutral opinion, app does what it promises nothing more Room for improvement.",4,Neutral,No,India,14.5,0,77
+REV0743,2024-05-11,2024,5,Privacy concerns as it uploads contacts without permission Uninstalling this app now.,2,Negative,No,India,15.0,0,85
+REV0599,2024-05-12,2024,5,"Best caller ID app I have ever used, works perfectly Very satisfied with this app.",4,Positive,No,India,15.0,2,82
+REV0653,2024-05-13,2024,5,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,India,15.0,1,80
+REV0712,2024-05-14,2024,5,Privacy concerns as it uploads contacts without permission Zero stars if possible.,1,Negative,Yes,Indonesia,15.0,9,82
+REV0886,2024-05-15,2024,5,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,5,Positive,Yes,Indonesia,15.0,1,93
+REV0090,2024-05-17,2024,5,The app has become useless after the latest update Dev team should address this.,2,Negative,No,India,14.5,0,80
+REV0120,2024-05-17,2024,5,"Best caller ID app I have ever used, works perfectly Very satisfied with this app.",5,Positive,Yes,Indonesia,13.5,3,82
+REV0231,2024-05-19,2024,5,Perfect solution for spam calls and unknown numbers Very satisfied with this app.,5,Positive,Yes,India,15.0,1,81
+REV0354,2024-05-19,2024,5,"Best caller ID app I have ever used, works perfectly Best decision to download this.",5,Positive,Yes,India,15.5,1,84
+REV0761,2024-05-20,2024,5,Too much data collection and privacy invasion issues Dev team should address this.,1,Negative,No,India,14.0,6,82
+REV0996,2024-05-24,2024,5,Battery draining app that makes phone run hot all the time Uninstalling this app now.,1,Negative,No,Nigeria,14.0,9,85
+REV0850,2024-05-24,2024,5,Brilliant app for managing calls and blocking telemarketers Best decision to download this.,5,Positive,Yes,India,14.5,0,91
+REV0670,2024-06-02,2024,6,Spam calls still getting through despite having this app Zero stars if possible.,1,Negative,Yes,Nigeria,14.0,0,80
+REV0926,2024-06-02,2024,6,Brilliant app for managing calls and blocking telemarketers Five stars from me.,5,Positive,Yes,USA,15.5,3,79
+REV0082,2024-06-03,2024,6,"Excellent spam detection feature, highly recommended Five stars from me.",4,Positive,Yes,Nigeria,14.5,2,72
+REV0238,2024-06-04,2024,6,Great app for blocking unwanted calls and identifying callers Keep up the good work.,4,Positive,No,Indonesia,13.0,9,84
+REV0078,2024-06-08,2024,6,The app has become useless after the latest update Needs major improvements.,1,Negative,Yes,India,14.0,6,76
+REV0660,2024-06-08,2024,6,Amazing app that saves time by filtering spam calls Five stars from me.,5,Positive,Yes,India,13.5,0,71
+REV0018,2024-06-12,2024,6,Great app for blocking unwanted calls and identifying callers Five stars from me.,5,Positive,Yes,India,14.5,4,81
+REV0819,2024-06-12,2024,6,Too many ads and the premium version is very expensive Please fix this immediately.,1,Negative,No,USA,15.0,0,83
+REV0194,2024-06-14,2024,6,"Neutral opinion, app does what it promises nothing more Might switch to another app.",3,Neutral,No,India,14.5,4,84
+REV0014,2024-06-19,2024,6,Fantastic app that works flawlessly without any issues Great job developers.,4,Positive,Yes,USA,14.5,0,76
+REV0011,2024-06-20,2024,6,Great app for blocking unwanted calls and identifying callers Best decision to download this.,4,Positive,Yes,India,14.0,2,93
+REV0644,2024-06-21,2024,6,"Excellent spam detection feature, highly recommended Five stars from me.",5,Positive,Yes,USA,14.5,0,72
+REV0195,2024-06-23,2024,6,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,India,13.0,1,80
+REV0929,2024-06-23,2024,6,"Worst update ever, completely ruined the user experience Please fix this immediately.",2,Negative,No,India,15.5,3,85
+REV0402,2024-06-23,2024,6,Wonderful app with great user interface and smooth performance Best decision to download this.,4,Positive,Yes,India,15.0,0,94
+REV0465,2024-06-28,2024,6,Decent app but there are better alternatives available Just okay for now.,3,Neutral,No,India,15.5,15,73
+REV0259,2024-07-02,2024,7,Love how it instantly identifies unknown numbers Five stars from me.,5,Positive,Yes,USA,15.5,6,68
+REV0678,2024-07-03,2024,7,App is very slow and takes too long to load caller info Dev team should address this.,1,Negative,No,India,13.5,11,85
+REV0618,2024-07-03,2024,7,Wonderful app with great user interface and smooth performance Will definitely recommend to friends.,5,Positive,No,Nigeria,15.0,0,100
+REV0818,2024-07-03,2024,7,"Best caller ID app I have ever used, works perfectly Five stars from me.",5,Positive,No,India,15.5,0,72
+REV0778,2024-07-04,2024,7,Superb caller identification and spam protection features Five stars from me.,5,Positive,Yes,UK,13.5,5,77
+REV0532,2024-07-05,2024,7,"Really useful app, cannot imagine using phone without it Highly recommended!",5,Positive,No,Brazil,14.5,7,76
+REV0024,2024-07-09,2024,7,Perfect solution for spam calls and unknown numbers Keep up the good work.,5,Positive,Yes,India,14.5,1,74
+REV0287,2024-07-09,2024,7,"Really useful app, cannot imagine using phone without it Very satisfied with this app.",5,Positive,Yes,India,13.5,0,86
+REV0935,2024-07-10,2024,7,"Really useful app, cannot imagine using phone without it Five stars from me.",5,Positive,No,Nigeria,14.5,1,76
+REV0617,2024-07-15,2024,7,"Mixed experience with this app, some features work well Just okay for now.",3,Neutral,No,India,15.0,3,74
+REV0795,2024-07-15,2024,7,Fantastic app that works flawlessly without any issues Will definitely recommend to friends.,5,Positive,Yes,India,15.0,1,92
+REV0156,2024-07-16,2024,7,Truecaller is a must-have app for every smartphone user Keep up the good work.,5,Positive,Yes,India,14.0,0,78
+REV0682,2024-07-18,2024,7,Love how it instantly identifies unknown numbers Will definitely recommend to friends.,5,Positive,No,India,15.0,1,86
+REV0031,2024-07-20,2024,7,Perfect solution for spam calls and unknown numbers Very satisfied with this app.,4,Positive,Yes,Nigeria,14.0,3,81
+REV0555,2024-07-23,2024,7,Very buggy app with constant notifications that annoy me Very disappointed.,2,Negative,Yes,India,13.5,3,75
+REV0838,2024-07-23,2024,7,"Neutral opinion, app does what it promises nothing more Hope to see updates soon.",4,Neutral,No,India,14.0,0,81
+REV0467,2024-07-24,2024,7,Great app for blocking unwanted calls and identifying callers Will definitely recommend to friends.,5,Positive,No,India,15.5,7,99
+REV0103,2024-07-26,2024,7,"Worst update ever, completely ruined the user experience Dev team should address this.",1,Negative,No,Nigeria,13.5,0,86
+REV0041,2024-08-01,2024,8,Regular updates but the core functionality stays the same Just okay for now.,4,Neutral,Yes,India,13.0,7,76
+REV0901,2024-08-01,2024,8,Brilliant app for managing calls and blocking telemarketers Will definitely recommend to friends.,5,Positive,Yes,India,14.5,6,97
+REV0874,2024-08-02,2024,8,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,5,Positive,No,India,15.0,7,93
+REV0615,2024-08-02,2024,8,App keeps crashing frequently and drains battery fast Please fix this immediately.,1,Negative,Yes,India,13.5,0,82
+REV0454,2024-08-02,2024,8,App keeps crashing frequently and drains battery fast Zero stars if possible.,1,Negative,No,Brazil,15.5,1,77
+REV0585,2024-08-05,2024,8,"Neutral opinion, app does what it promises nothing more Might switch to another app.",3,Neutral,No,India,15.5,0,84
+REV0316,2024-08-08,2024,8,Truecaller is a must-have app for every smartphone user Will definitely recommend to friends.,5,Positive,No,India,15.0,3,93
+REV0770,2024-08-14,2024,8,Love how it instantly identifies unknown numbers Very satisfied with this app.,5,Positive,No,Nigeria,14.5,5,78
+REV0182,2024-08-15,2024,8,"Keeps showing wrong names for contacts, very frustrating Not worth the download.",1,Negative,No,India,15.5,3,80
+REV0527,2024-08-16,2024,8,Acceptable performance but premium features are overpriced Might switch to another app.,3,Neutral,No,India,14.5,0,87
+REV0485,2024-08-17,2024,8,Brilliant app for managing calls and blocking telemarketers Five stars from me.,4,Positive,Yes,India,14.5,1,79
+REV0542,2024-08-17,2024,8,Great app for blocking unwanted calls and identifying callers Best decision to download this.,5,Positive,No,USA,15.0,0,93
+REV0932,2024-08-21,2024,8,Perfect solution for spam calls and unknown numbers Very satisfied with this app.,5,Positive,Yes,USA,14.5,2,81
+REV0127,2024-08-22,2024,8,"Does not work properly on my device, keeps showing errors Zero stars if possible.",1,Negative,Yes,Brazil,14.0,1,81
+REV0868,2024-08-25,2024,8,"Worst update ever, completely ruined the user experience Not worth the download.",2,Negative,No,India,15.5,1,80
+REV0482,2024-08-25,2024,8,Great app for blocking unwanted calls and identifying callers Keep up the good work.,5,Positive,Yes,Brazil,14.5,3,84
+REV0995,2024-08-25,2024,8,"Excellent spam detection feature, highly recommended Very satisfied with this app.",5,Positive,Yes,India,15.5,5,82
+REV0781,2024-08-28,2024,8,"Really useful app, cannot imagine using phone without it Highly recommended!",4,Positive,No,India,15.5,1,76
+REV0982,2024-08-28,2024,8,App is very slow and takes too long to load caller info Not worth the download.,2,Negative,Yes,India,15.0,2,79
+REV0269,2024-08-28,2024,8,Brilliant app for managing calls and blocking telemarketers Best decision to download this.,5,Positive,Yes,USA,15.0,1,91
+REV0085,2024-09-01,2024,9,"Keeps showing wrong names for contacts, very frustrating Needs major improvements.",1,Negative,No,Brazil,15.5,3,82
+REV0685,2024-09-02,2024,9,"Really useful app, cannot imagine using phone without it Highly recommended!",5,Positive,Yes,India,15.5,2,76
+REV0522,2024-09-04,2024,9,"Worst update ever, completely ruined the user experience Not worth the download.",1,Negative,Yes,Brazil,15.5,5,80
+REV0384,2024-09-07,2024,9,"Best caller ID app I have ever used, works perfectly Great job developers.",5,Positive,No,USA,15.0,1,74
+REV0630,2024-09-07,2024,9,"Does not work properly on my device, keeps showing errors Very disappointed.",2,Negative,No,USA,15.0,6,76
+REV0426,2024-09-08,2024,9,This app has made my phone experience so much better Five stars from me.,4,Positive,Yes,Indonesia,13.5,9,72
+REV0677,2024-09-09,2024,9,Number lookup is wrong most of the time very inaccurate Not worth the download.,1,Negative,No,Indonesia,14.0,0,79
+REV0563,2024-09-10,2024,9,Truecaller is a must-have app for every smartphone user Keep up the good work.,5,Positive,Yes,Brazil,15.5,0,78
+REV0914,2024-09-12,2024,9,"Keeps showing wrong names for contacts, very frustrating Zero stars if possible.",1,Negative,No,India,14.5,3,80
+REV0535,2024-09-15,2024,9,Too many ads and the premium version is very expensive Zero stars if possible.,2,Negative,No,UK,14.5,2,78
+REV0640,2024-09-16,2024,9,Amazing app that saves time by filtering spam calls Best decision to download this.,5,Positive,Yes,India,15.5,3,83
+REV0154,2024-09-24,2024,9,Battery draining app that makes phone run hot all the time Zero stars if possible.,1,Negative,No,India,15.5,4,82
+REV0602,2024-09-26,2024,9,"Does not work properly on my device, keeps showing errors Dev team should address this.",1,Negative,No,Indonesia,15.0,0,87
+REV0320,2024-10-01,2024,10,Fantastic app that works flawlessly without any issues Very satisfied with this app.,5,Positive,Yes,USA,14.5,1,84
+REV0370,2024-10-02,2024,10,Number lookup is wrong most of the time very inaccurate Zero stars if possible.,1,Negative,Yes,India,15.5,0,79
+REV0735,2024-10-02,2024,10,Works sometimes but not consistent enough for daily use Not fully satisfied.,3,Neutral,No,India,14.5,2,76
+REV0270,2024-10-03,2024,10,Superb caller identification and spam protection features Highly recommended!,5,Positive,Yes,USA,15.0,3,77
+REV0759,2024-10-04,2024,10,Terrible customer support and no response to complaints Zero stars if possible.,2,Negative,Yes,India,14.0,6,79
+REV0718,2024-10-05,2024,10,Battery draining app that makes phone run hot all the time Needs major improvements.,1,Negative,Yes,India,14.5,2,84
+REV0764,2024-10-05,2024,10,"Mixed experience with this app, some features work well Hope to see updates soon.",3,Neutral,No,India,15.5,4,81
+REV0307,2024-10-08,2024,10,Superb caller identification and spam protection features Keep up the good work.,5,Positive,Yes,India,14.5,1,80
+REV0278,2024-10-22,2024,10,Regular updates but the core functionality stays the same Hope to see updates soon.,3,Neutral,Yes,Nigeria,14.0,8,83
+REV0774,2024-10-24,2024,10,"Keeps showing wrong names for contacts, very frustrating Zero stars if possible.",2,Negative,No,India,15.5,0,80
+REV0572,2024-10-24,2024,10,Privacy concerns as it uploads contacts without permission Please fix this immediately.,2,Negative,No,USA,15.0,14,87
+REV0176,2024-10-26,2024,10,Regular updates but the core functionality stays the same Could be better.,3,Neutral,Yes,Brazil,15.5,1,74
+REV0140,2024-10-27,2024,10,Perfect solution for spam calls and unknown numbers Will definitely recommend to friends.,5,Positive,Yes,India,15.0,3,89
+REV0733,2024-11-03,2024,11,Spam calls still getting through despite having this app Not worth the download.,1,Negative,Yes,Brazil,14.0,0,80
+REV0388,2024-11-03,2024,11,Privacy concerns as it uploads contacts without permission Dev team should address this.,1,Negative,Yes,Indonesia,15.5,0,88
+REV0086,2024-11-04,2024,11,Spam calls still getting through despite having this app Uninstalling this app now.,1,Negative,Yes,Nigeria,13.0,0,83
+REV0235,2024-11-04,2024,11,"Worst update ever, completely ruined the user experience Uninstalling this app now.",1,Negative,No,Brazil,15.0,6,83
+REV0493,2024-11-06,2024,11,Too much data collection and privacy invasion issues Needs major improvements.,1,Negative,No,UK,15.0,5,78
+REV0020,2024-11-06,2024,11,Too many ads and the premium version is very expensive Not worth the download.,2,Negative,No,India,15.5,2,78
+REV0905,2024-11-10,2024,11,Outstanding performance and very accurate caller ID Five stars from me.,5,Positive,No,India,15.0,3,71
+REV0809,2024-11-10,2024,11,"Disappointed with quality, expected much better performance Very disappointed.",1,Negative,Yes,India,15.5,1,78
+REV0654,2024-11-12,2024,11,"Does not work properly on my device, keeps showing errors Not worth the download.",2,Negative,Yes,India,15.5,0,81
+REV0648,2024-11-18,2024,11,Regular updates but the core functionality stays the same Not fully satisfied.,3,Neutral,Yes,Indonesia,15.5,3,78
+REV0221,2024-11-19,2024,11,Perfect solution for spam calls and unknown numbers Best decision to download this.,4,Positive,Yes,India,15.5,1,83
+REV0575,2024-11-25,2024,11,Acceptable performance but premium features are overpriced Could be better.,3,Neutral,Yes,UK,15.0,0,75
+REV0308,2024-11-27,2024,11,Fantastic app that works flawlessly without any issues Highly recommended!,5,Positive,No,India,13.5,0,74
+REV0878,2024-11-27,2024,11,Spam calls still getting through despite having this app Very disappointed.,1,Negative,Yes,India,14.0,1,75
+REV0204,2024-11-28,2024,11,Too much data collection and privacy invasion issues Very disappointed.,1,Negative,No,India,14.5,8,71
+REV0596,2024-12-08,2024,12,Fantastic app that works flawlessly without any issues Keep up the good work.,5,Positive,Yes,Indonesia,15.5,1,77
+REV0566,2024-12-09,2024,12,Great app for blocking unwanted calls and identifying callers Great job developers.,5,Positive,Yes,India,15.5,16,83
+REV0931,2024-12-14,2024,12,Amazing app that saves time by filtering spam calls Five stars from me.,5,Positive,Yes,UK,14.5,0,71
+REV0440,2024-12-21,2024,12,Too many ads and the premium version is very expensive Dev team should address this.,2,Negative,Yes,Brazil,15.5,3,84
+REV0920,2024-12-23,2024,12,Outstanding performance and very accurate caller ID Highly recommended!,5,Positive,No,Brazil,13.5,3,71
+REV0457,2024-12-25,2024,12,Okay for basic call identification but needs improvement Might switch to another app.,3,Neutral,Yes,India,14.5,0,85
+REV0664,2024-12-26,2024,12,This app has made my phone experience so much better Five stars from me.,5,Positive,No,Brazil,14.0,0,72
+REV0754,2024-12-26,2024,12,"Excellent spam detection feature, highly recommended Best decision to download this.",4,Positive,Yes,USA,15.5,2,84
+REV0273,2024-12-28,2024,12,"Keeps showing wrong names for contacts, very frustrating Needs major improvements.",2,Negative,Yes,India,14.5,0,82

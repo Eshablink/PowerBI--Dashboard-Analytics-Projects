@@ -1,0 +1,74 @@
+track_name,artist_name,album_name,genre,release_year,streams,duration_min,popularity,danceability,energy,valence,tempo,explicit
+Blinding Lights,The Weeknd,After Hours,Pop,2020,3500000000,3.45,98,72,80,45,171,False
+Shape of You,Ed Sheeran,÷ (Divide),Pop,2017,3200000000,3.53,96,82,65,93,96,False
+Dance Monkey,Tones and I,The Kids Are Coming,Pop,2019,2800000000,3.58,95,82,79,57,98,False
+Rockstar,Post Malone,Beerbongs & Bentleys,Hip-Hop,2018,2600000000,3.67,94,56,56,12,160,True
+One Dance,Drake,Views,Hip-Hop,2016,2500000000,2.93,93,78,62,49,104,False
+Sunflower,Post Malone,Spider-Man: Into the Spider-Verse,Pop,2018,2450000000,2.38,96,76,48,91,93,False
+God's Plan,Drake,Scorpion,Hip-Hop,2018,2300000000,3.18,95,75,43,21,77,True
+Stay,The Kid LAROI,F*CK LOVE 3,Pop,2021,2200000000,2.37,97,59,78,48,170,True
+Watermelon Sugar,Harry Styles,Fine Line,Pop,2020,2100000000,2.67,95,84,82,75,95,False
+Bad Guy,Billie Eilish,When We All Fall Asleep,Pop,2019,2000000000,3.23,96,70,43,56,135,False
+Levitating,Dua Lipa,Future Nostalgia,Pop,2020,1950000000,3.23,94,70,82,91,103,False
+Dynamite,BTS,BE,K-Pop,2020,1900000000,3.20,95,74,77,74,114,False
+Mood,24kGoldn,El Dorado,Hip-Hop,2020,1850000000,2.38,94,71,67,44,91,True
+Savage Love,Jawsh 685,Savage Love,Pop,2020,1800000000,2.92,93,56,63,66,93,False
+Positions,Ariana Grande,Positions,Pop,2020,1750000000,2.72,91,74,68,74,144,False
+Peaches,Justin Bieber,Justice,Pop,2021,1700000000,3.18,90,68,54,45,90,False
+Montero,Lil Nas X,Montero,Pop,2021,1680000000,2.30,97,76,68,66,180,True
+Save Your Tears,The Weeknd,After Hours,Pop,2020,1650000000,3.35,96,80,68,60,118,False
+Industry Baby,Lil Nas X,Montero,Hip-Hop,2021,1620000000,3.32,96,76,71,48,149,True
+Anyone,Justin Bieber,Justice,Pop,2020,1600000000,2.88,89,55,43,28,139,False
+Astronaut In The Ocean,Masked Wolf,Astronomical,Hip-Hop,2021,1580000000,2.87,93,74,77,44,150,False
+Kiss Me More,Doja Cat,Planet Her,Pop,2021,1560000000,3.33,93,79,67,81,111,False
+Drivers License,Olivia Rodrigo,SOUR,Pop,2021,1540000000,4.05,97,51,33,32,144,False
+Good 4 U,Olivia Rodrigo,SOUR,Pop,2021,1520000000,2.96,97,56,72,62,166,False
+Beggin,Maneskin,Chosen,Rock,2017,1500000000,3.53,92,72,80,65,134,False
+Happier Than Ever,Billie Eilish,Happier Than Ever,Pop,2021,1480000000,4.97,95,41,38,13,121,False
+Butter,BTS,Butter,K-Pop,2021,1460000000,2.72,96,76,82,79,110,False
+Permission to Dance,BTS,Butter,K-Pop,2021,1440000000,3.05,92,81,82,84,125,False
+Easy On Me,Adele,30,Pop,2021,1420000000,3.43,97,59,28,13,148,False
+Cold Heart,Elton John,The Lockdown Sessions,Pop,2021,1400000000,3.42,91,68,68,42,120,False
+Anti-Hero,Taylor Swift,Midnights,Pop,2022,1380000000,3.33,99,68,58,60,97,False
+As It Was,Harry Styles,Harry's House,Pop,2022,1360000000,2.37,99,52,73,43,174,False
+About Damn Time,Lizzo,Special,Pop,2022,1340000000,3.13,97,70,72,64,110,False
+Running Up That Hill,Kate Bush,Hounds of Love,Pop,1985,1320000000,5.03,96,44,62,51,82,False
+Golden Hour,JVKE,this is what ___ feels like,Pop,2022,1300000000,3.35,96,60,56,89,120,False
+Stay With Me,Sam Smith,In the Lonely Hour,Pop,2014,1280000000,2.87,93,58,40,40,82,False
+Thinking Out Loud,Ed Sheeran,x,Pop,2014,1260000000,4.83,94,77,40,57,79,False
+Let Her Go,Passenger,All the Little Lights,Folk,2012,1240000000,4.22,92,52,40,71,75,False
+Photograph,Ed Sheeran,x,Pop,2014,1220000000,4.35,93,65,45,58,108,False
+Counting Stars,OneRepublic,Native,Pop,2013,1200000000,4.72,95,66,80,63,123,False
+Radioactive,Imagine Dragons,Night Visions,Rock,2012,1180000000,3.07,94,56,67,32,137,False
+Demons,Imagine Dragons,Night Visions,Rock,2012,1160000000,2.57,92,51,51,48,90,False
+Thunder,Imagine Dragons,Evolve,Rock,2017,1140000000,3.07,91,60,72,44,168,False
+Natural,Imagine Dragons,Origins,Rock,2018,1120000000,3.22,89,51,73,27,148,False
+Believer,Imagine Dragons,Evolve,Rock,2017,1100000000,3.37,93,65,77,37,125,False
+Whatever It Takes,Imagine Dragons,Evolve,Rock,2017,1080000000,3.35,90,53,80,51,195,False
+Enemy,Imagine Dragons,Arcane,Rock,2021,1060000000,2.83,94,80,76,34,158,False
+Bones,Imagine Dragons,Mercury Act 1,Rock,2021,1040000000,2.78,89,64,78,40,164,False
+Follow You,Imagine Dragons,Mercury Act 1,Rock,2021,1020000000,3.42,87,53,54,51,97,False
+Lost in the Echo,Linkin Park,Living Things,Rock,2012,800000000,3.52,88,64,88,14,130,False
+Numb,Linkin Park,Meteora,Rock,2003,950000000,3.08,91,51,78,17,114,False
+In the End,Linkin Park,Hybrid Theory,Rock,2000,1050000000,3.37,93,48,81,14,107,False
+Faded,Alan Walker,Different World,Electronic,2015,1100000000,3.32,96,65,74,20,90,False
+Alone,Alan Walker,Different World,Electronic,2016,980000000,2.70,93,70,85,22,96,False
+On My Way,Alan Walker,NCS,Electronic,2019,850000000,3.20,91,72,80,36,128,False
+Starboy,The Weeknd,Starboy,R&B,2016,1300000000,3.50,93,68,58,18,186,False
+The Hills,The Weeknd,Beauty Behind the Madness,R&B,2015,1100000000,4.02,91,52,58,8,131,False
+Earned It,The Weeknd,Beauty Behind the Madness,R&B,2015,950000000,4.68,91,53,38,32,112,False
+Can't Feel My Face,The Weeknd,Beauty Behind the Madness,Pop,2015,1000000000,3.55,92,71,69,53,107,False
+Heartless,The Weeknd,After Hours,R&B,2019,880000000,3.43,90,64,57,11,150,False
+Circles,Post Malone,Hollywood's Bleeding,Pop,2019,1400000000,3.35,94,70,55,72,120,False
+Congratulations,Post Malone,Stoney,Hip-Hop,2016,1200000000,3.73,92,64,37,62,123,False
+Better Now,Post Malone,Beerbongs & Bentleys,Pop,2018,1100000000,3.52,91,61,57,47,96,False
+Psycho,Post Malone,Beerbongs & Bentleys,Hip-Hop,2018,1050000000,3.60,91,48,52,13,142,True
+Wow.,Post Malone,Hollywood's Bleeding,Hip-Hop,2019,900000000,2.97,89,76,63,33,141,False
+Lover,Taylor Swift,Lover,Pop,2019,1100000000,3.68,95,67,58,95,69,False
+Shake It Off,Taylor Swift,1989,Pop,2014,1300000000,3.98,96,65,80,94,160,False
+Blank Space,Taylor Swift,1989,Pop,2014,1250000000,3.85,96,76,62,60,96,False
+Bad Blood,Taylor Swift,1989,Pop,2015,980000000,3.52,90,63,80,51,171,False
+Style,Taylor Swift,1989,Pop,2014,1050000000,3.85,91,53,60,60,95,False
+Cruel Summer,Taylor Swift,Lover,Pop,2019,1400000000,2.98,98,55,70,57,170,False
+22,Taylor Swift,Red,Pop,2012,800000000,3.97,91,59,80,96,104,False
+We Are Never Ever Getting Back Together,Taylor Swift,Red,Pop,2012,850000000,3.23,90,67,77,72,160,False
